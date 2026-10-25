@@ -1,0 +1,11 @@
+Relationship,UnmatchedRows,ChildRows,MatchRate
+Patients.VillageID -> Villages.VillageID,0,20000,1.0
+Appointments.PatientID -> Patients.PatientID,0,5000,1.0
+Appointments.DoctorID -> Doctors.StaffID,0,5000,1.0
+Appointments.DepartmentID -> Departments.DepartmentID,0,5000,1.0
+Diagnoses.AppointmentID -> detailed Appointments,55000,60000,0.08333333333333337
+Billing.AppointmentID -> detailed Appointments,55000,60000,0.08333333333333337
+Feedback.AppointmentID -> detailed Appointments,19308,21064,0.083364982909229
+Beds.RoomID -> Rooms.RoomID,0,2000,1.0
+Rooms.DepartmentID -> Departments.DepartmentID,0,400,1.0
+Equipment.DepartmentID -> Departments.DepartmentID,0,200,1.0

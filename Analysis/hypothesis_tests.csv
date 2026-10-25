@@ -1,0 +1,4 @@
+Test,NullHypothesis,Method,Statistic,PValue,Decision
+H1,Satisfaction ratings are equal across FacilityIDs,Kruskal-Wallis,13.799867588577493,0.7952304278874007,Fail to reject H0
+H2,Admission status is independent of age group,Chi-square independence,10.652795460898053,0.03075610600425485,Reject H0
+H3,Billing distributions are equal for patients with vs without recorded chronic conditions,Mann-Whitney U,2332992.5,0.5438271047832024,Fail to reject H0
