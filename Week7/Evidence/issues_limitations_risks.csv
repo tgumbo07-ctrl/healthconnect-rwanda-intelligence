@@ -1,0 +1,6 @@
+Issue_ID,Category,Issue,Status,Severity,Impact,Mitigation
+W7-01,Data,Attendance/no-show target absent,Open,High,Week 7 business scenario cannot be directly evaluated for attendance using supplied Rwanda data.,Do not invent target; document limitation; request attendance status field for future iteration.
+W7-02,Modelling,Week 6 admission candidate ROC-AUC near 0.50,Open,High,Model does not discriminate admitted vs non-admitted reliably.,Reject operational deployment; collect stronger pre-admission predictors and revisit target design.
+W7-03,Threshold,Gradient Boosting default 0.50 yields almost no positive predictions,Tested,High,Recall collapses despite high nominal accuracy due to class imbalance.,Evaluate threshold on validation; do not use accuracy alone.
+W7-04,Refinement,No-ID balanced logistic comparator improves one holdout AUC but not CV,Rejected refinement,Medium,Apparent holdout improvement is unstable and operational precision remains low.,Do not claim validated improvement; retain conclusion of model unsuitability.
+W7-05,Cross-track,HC-POD Data Analytics -> Data Science validation completed,Resolved,Low,Cross-track requirement completed with actual collaborator evidence and model re-test.,"Preserve collaborator validation summary, feature review, testing record and re-test metrics."

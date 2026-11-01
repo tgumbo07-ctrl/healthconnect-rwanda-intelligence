@@ -1,0 +1,1001 @@
+Age,Gender,VisitType,FacilityID,DepartmentID,Diagnosis,Severity,Admitted,Predicted,Probability,ErrorType
+17,Male,Consultation,HF013,DEP088,Upper Respiratory Infection,Severe,0,0,0.1104022920633543,True Negative
+84,Female,Follow-up,HF004,DEP182,Diabetes,Moderate,0,0,0.07290018375643821,True Negative
+45,Female,Consultation,HF005,DEP182,Malaria,Severe,0,0,0.0615021397634642,True Negative
+77,Female,Emergency,HF016,DEP182,Gastritis,Mild,0,0,0.06754918662055198,True Negative
+82,Female,Consultation,HF016,DEP175,Gastritis,Moderate,0,0,0.10772473598071211,True Negative
+82,Female,Consultation,HF014,DEP186,Diabetes,Mild,0,0,0.1076088823105333,True Negative
+77,Male,Emergency,HF003,DEP031,Diabetes,Severe,0,0,0.1059072466394659,True Negative
+85,Female,Emergency,HF007,DEP159,Hypertension,Severe,0,0,0.3011791668379648,True Negative
+64,Female,Emergency,HF013,DEP071,Hypertension,Mild,0,0,0.09617202622923021,True Negative
+7,Male,Consultation,HF010,DEP095,Gastritis,Moderate,0,0,0.15641151343908935,True Negative
+51,Male,Follow-up,HF012,DEP196,Gastritis,Mild,1,0,0.06620951428983635,False Negative
+74,Male,Follow-up,HF007,DEP087,Diabetes,Severe,0,0,0.14088017093438146,True Negative
+18,Male,Consultation,HF008,DEP032,Malaria,Moderate,0,0,0.11494116578638007,True Negative
+72,Male,Follow-up,HF014,DEP093,Malaria,Mild,1,0,0.28577125464248704,False Negative
+75,Female,Follow-up,HF005,DEP045,Malaria,Severe,0,0,0.12801385985690825,True Negative
+85,Male,Consultation,HF002,DEP125,Malaria,Mild,0,0,0.10005685455758737,True Negative
+54,Male,Consultation,HF006,DEP112,Gastritis,Severe,0,0,0.06464800340625405,True Negative
+12,Male,Consultation,HF011,DEP031,Diabetes,Severe,0,0,0.09383349505324871,True Negative
+60,Female,Emergency,HF010,DEP035,Malaria,Mild,0,0,0.10992273989672006,True Negative
+90,Female,Follow-up,HF002,DEP034,Gastritis,Moderate,0,0,0.19103974558639908,True Negative
+64,Female,Follow-up,HF020,DEP111,Malaria,Severe,1,0,0.0914558522941056,False Negative
+22,Female,Emergency,HF002,DEP022,Hypertension,Moderate,0,0,0.1026898248452043,True Negative
+25,Female,Follow-up,HF019,DEP147,Diabetes,Mild,1,0,0.09113371920995135,False Negative
+27,Female,Consultation,HF006,DEP180,Upper Respiratory Infection,Mild,0,0,0.1119742505883314,True Negative
+44,Female,Consultation,HF014,DEP188,Malaria,Mild,0,0,0.09318063930325615,True Negative
+32,Female,Consultation,HF015,DEP072,Upper Respiratory Infection,Mild,0,0,0.09745412366649953,True Negative
+89,Male,Follow-up,HF013,DEP161,Hypertension,Mild,0,0,0.11774545873006917,True Negative
+52,Female,Follow-up,HF013,DEP065,Gastritis,Mild,0,0,0.10406317162208381,True Negative
+3,Male,Follow-up,HF001,DEP010,Gastritis,Severe,0,0,0.19191381562514487,True Negative
+26,Female,Follow-up,HF019,DEP124,Diabetes,Moderate,0,0,0.09984984101592512,True Negative
+59,Male,Follow-up,HF006,DEP157,Malaria,Severe,0,0,0.10256281399777578,True Negative
+34,Female,Consultation,HF002,DEP002,Upper Respiratory Infection,Severe,0,0,0.1119742505883314,True Negative
+70,Female,Follow-up,HF002,DEP150,Hypertension,Severe,0,0,0.10412834503932983,True Negative
+70,Male,Emergency,HF001,DEP088,Upper Respiratory Infection,Mild,0,0,0.12031789309551319,True Negative
+36,Male,Follow-up,HF007,DEP038,Malaria,Moderate,0,0,0.12133338143786716,True Negative
+2,Male,Emergency,HF008,DEP049,Gastritis,Mild,0,0,0.09120624874864537,True Negative
+48,Male,Consultation,HF005,DEP043,Diabetes,Moderate,0,0,0.11409078219151036,True Negative
+49,Female,Consultation,HF001,DEP113,Diabetes,Moderate,0,0,0.06679115668219578,True Negative
+50,Female,Follow-up,HF001,DEP081,Upper Respiratory Infection,Severe,0,0,0.11914470450824265,True Negative
+41,Male,Consultation,HF019,DEP086,Upper Respiratory Infection,Moderate,0,0,0.07685641432045981,True Negative
+60,Female,Emergency,HF016,DEP185,Upper Respiratory Infection,Moderate,0,0,0.08260706368017649,True Negative
+37,Female,Follow-up,HF001,DEP078,Gastritis,Moderate,0,0,0.08268329288197723,True Negative
+33,Female,Follow-up,HF010,DEP112,Hypertension,Moderate,0,0,0.08794768684805603,True Negative
+6,Male,Consultation,HF015,DEP093,Gastritis,Severe,1,0,0.3838325137845896,False Negative
+69,Male,Consultation,HF014,DEP133,Gastritis,Moderate,0,0,0.11908303094185929,True Negative
+79,Female,Emergency,HF009,DEP067,Upper Respiratory Infection,Mild,0,0,0.1449313760355496,True Negative
+11,Male,Consultation,HF010,DEP033,Hypertension,Severe,1,0,0.14308731568959418,False Negative
+24,Female,Emergency,HF006,DEP155,Upper Respiratory Infection,Mild,0,0,0.09466855783934931,True Negative
+82,Male,Emergency,HF016,DEP105,Gastritis,Mild,0,0,0.10946982940120004,True Negative
+7,Male,Consultation,HF015,DEP090,Diabetes,Severe,0,0,0.07023608163075849,True Negative
+51,Male,Consultation,HF001,DEP144,Gastritis,Severe,0,0,0.12325371562997582,True Negative
+1,Female,Follow-up,HF002,DEP066,Gastritis,Mild,0,0,0.08815357617675043,True Negative
+58,Female,Consultation,HF005,DEP149,Gastritis,Mild,0,0,0.11515292751893935,True Negative
+90,Male,Emergency,HF006,DEP042,Malaria,Moderate,0,0,0.11258357922166712,True Negative
+4,Female,Emergency,HF006,DEP016,Upper Respiratory Infection,Moderate,0,0,0.09748685586559899,True Negative
+61,Female,Follow-up,HF005,DEP150,Diabetes,Mild,0,0,0.10065665486655641,True Negative
+74,Female,Follow-up,HF012,DEP052,Diabetes,Mild,0,0,0.08422867712484733,True Negative
+65,Male,Consultation,HF015,DEP145,Malaria,Moderate,0,0,0.11351293806403887,True Negative
+87,Female,Consultation,HF011,DEP067,Upper Respiratory Infection,Mild,0,0,0.1542103953445027,True Negative
+32,Female,Follow-up,HF012,DEP001,Malaria,Mild,0,0,0.08108715787324025,True Negative
+86,Female,Follow-up,HF012,DEP132,Upper Respiratory Infection,Moderate,0,0,0.09487837794288097,True Negative
+84,Female,Emergency,HF003,DEP069,Hypertension,Moderate,1,0,0.12100824034217873,False Negative
+71,Female,Follow-up,HF018,DEP164,Gastritis,Moderate,0,0,0.10775178866444039,True Negative
+21,Female,Consultation,HF010,DEP083,Diabetes,Severe,1,0,0.13819569354270347,False Negative
+78,Male,Follow-up,HF004,DEP158,Upper Respiratory Infection,Moderate,0,0,0.11500843805838695,True Negative
+18,Male,Consultation,HF005,DEP056,Malaria,Severe,0,0,0.11672697020409474,True Negative
+57,Male,Consultation,HF001,DEP103,Malaria,Severe,0,0,0.10224900621101518,True Negative
+10,Female,Consultation,HF010,DEP004,Hypertension,Severe,0,0,0.14123819054630385,True Negative
+27,Male,Follow-up,HF005,DEP053,Upper Respiratory Infection,Mild,0,0,0.10392990197539453,True Negative
+6,Male,Emergency,HF002,DEP118,Diabetes,Moderate,0,0,0.09023752291721607,True Negative
+31,Female,Follow-up,HF017,DEP017,Diabetes,Severe,0,0,0.06400985765054346,True Negative
+4,Male,Follow-up,HF014,DEP189,Malaria,Moderate,0,0,0.133416583630476,True Negative
+70,Female,Emergency,HF011,DEP132,Gastritis,Mild,0,0,0.11417396329885475,True Negative
+12,Female,Consultation,HF009,DEP157,Malaria,Mild,0,0,0.10536800691958342,True Negative
+25,Female,Emergency,HF013,DEP190,Gastritis,Mild,0,0,0.09327869304392229,True Negative
+86,Male,Follow-up,HF013,DEP013,Upper Respiratory Infection,Moderate,0,0,0.3923019509575521,True Negative
+57,Female,Follow-up,HF020,DEP186,Gastritis,Moderate,0,0,0.08701655427921764,True Negative
+29,Male,Follow-up,HF016,DEP021,Upper Respiratory Infection,Severe,0,0,0.08394753255281243,True Negative
+67,Male,Emergency,HF014,DEP055,Upper Respiratory Infection,Severe,0,0,0.11027413889049514,True Negative
+70,Female,Emergency,HF012,DEP140,Gastritis,Mild,0,0,0.08984730846374761,True Negative
+63,Male,Emergency,HF001,DEP010,Gastritis,Moderate,1,0,0.1090545814272246,False Negative
+27,Female,Consultation,HF001,DEP012,Upper Respiratory Infection,Mild,0,0,0.07432731849249812,True Negative
+25,Male,Follow-up,HF020,DEP176,Upper Respiratory Infection,Mild,0,0,0.1066012736742983,True Negative
+46,Male,Emergency,HF009,DEP160,Gastritis,Mild,0,0,0.06287413529013068,True Negative
+35,Male,Consultation,HF001,DEP156,Diabetes,Mild,1,0,0.10797077999800282,False Negative
+28,Male,Follow-up,HF002,DEP097,Hypertension,Mild,0,0,0.11511049440099748,True Negative
+32,Male,Follow-up,HF007,DEP109,Diabetes,Severe,0,0,0.10748643800569779,True Negative
+68,Male,Emergency,HF008,DEP031,Upper Respiratory Infection,Mild,0,0,0.10651182822212396,True Negative
+59,Male,Emergency,HF016,DEP073,Diabetes,Moderate,0,0,0.10153546100281337,True Negative
+82,Female,Consultation,HF006,DEP162,Hypertension,Moderate,0,0,0.11061156794326923,True Negative
+36,Male,Follow-up,HF014,DEP148,Malaria,Moderate,0,0,0.12367895573612643,True Negative
+21,Male,Consultation,HF016,DEP116,Hypertension,Mild,0,0,0.3002609141147562,True Negative
+2,Female,Follow-up,HF014,DEP094,Hypertension,Moderate,0,0,0.09878209511178974,True Negative
+50,Male,Emergency,HF002,DEP175,Hypertension,Moderate,0,0,0.11821136523403895,True Negative
+48,Female,Follow-up,HF016,DEP095,Upper Respiratory Infection,Mild,0,0,0.09565456106378688,True Negative
+43,Female,Consultation,HF005,DEP023,Gastritis,Moderate,0,0,0.11222005286110683,True Negative
+69,Female,Follow-up,HF018,DEP030,Diabetes,Mild,0,0,0.10065665486655641,True Negative
+81,Male,Follow-up,HF001,DEP031,Gastritis,Moderate,0,0,0.10690771115514835,True Negative
+78,Male,Consultation,HF012,DEP018,Gastritis,Moderate,1,0,0.10000112633050734,False Negative
+69,Male,Follow-up,HF008,DEP104,Diabetes,Severe,0,0,0.14937359473109235,True Negative
+67,Male,Follow-up,HF005,DEP143,Upper Respiratory Infection,Moderate,0,0,0.11284208128554078,True Negative
+32,Female,Emergency,HF006,DEP087,Malaria,Severe,0,0,0.09783274220384904,True Negative
+71,Female,Follow-up,HF006,DEP126,Upper Respiratory Infection,Mild,0,0,0.11914892884993471,True Negative
+43,Male,Consultation,HF019,DEP102,Gastritis,Severe,0,0,0.09498809446464666,True Negative
+44,Male,Emergency,HF001,DEP188,Hypertension,Severe,0,0,0.10657945377169721,True Negative
+36,Male,Consultation,HF011,DEP147,Hypertension,Mild,0,0,0.09762733304048418,True Negative
+62,Female,Consultation,HF012,DEP093,Gastritis,Severe,1,0,0.21528053196815278,False Negative
+35,Female,Consultation,HF005,DEP193,Hypertension,Moderate,0,0,0.10357307502717945,True Negative
+71,Female,Consultation,HF002,DEP136,Diabetes,Moderate,1,0,0.07773418840759154,False Negative
+21,Male,Consultation,HF018,DEP040,Upper Respiratory Infection,Severe,0,0,0.11988172072957456,True Negative
+68,Female,Emergency,HF007,DEP008,Upper Respiratory Infection,Moderate,0,0,0.07697772629925027,True Negative
+47,Male,Emergency,HF013,DEP147,Malaria,Moderate,0,0,0.1083872670466143,True Negative
+57,Male,Consultation,HF001,DEP106,Malaria,Mild,0,0,0.10579236273069215,True Negative
+4,Male,Consultation,HF006,DEP100,Diabetes,Moderate,0,0,0.10675841483572185,True Negative
+41,Male,Consultation,HF006,DEP124,Upper Respiratory Infection,Severe,0,0,0.11988172072957456,True Negative
+72,Female,Consultation,HF015,DEP136,Diabetes,Moderate,0,0,0.07042628182745389,True Negative
+14,Male,Emergency,HF013,DEP059,Hypertension,Moderate,0,0,0.11122469156546401,True Negative
+32,Female,Consultation,HF005,DEP146,Gastritis,Moderate,0,0,0.2720908336756476,True Negative
+11,Female,Follow-up,HF019,DEP181,Upper Respiratory Infection,Severe,1,0,0.10211715405644108,False Negative
+14,Male,Follow-up,HF007,DEP045,Upper Respiratory Infection,Moderate,0,0,0.13864116351107747,True Negative
+90,Male,Follow-up,HF014,DEP180,Hypertension,Severe,1,0,0.10789010616335924,False Negative
+73,Female,Emergency,HF011,DEP193,Upper Respiratory Infection,Severe,0,0,0.09146546869556045,True Negative
+36,Female,Emergency,HF009,DEP069,Hypertension,Moderate,0,0,0.1197785798598974,True Negative
+65,Male,Emergency,HF006,DEP038,Hypertension,Severe,1,0,0.11421052286204811,False Negative
+80,Male,Follow-up,HF015,DEP102,Upper Respiratory Infection,Severe,0,0,0.0992624781841898,True Negative
+81,Male,Follow-up,HF008,DEP009,Upper Respiratory Infection,Severe,0,0,0.11680130762027362,True Negative
+26,Male,Consultation,HF010,DEP095,Diabetes,Mild,0,0,0.1400114799098865,True Negative
+3,Male,Consultation,HF013,DEP057,Hypertension,Moderate,0,0,0.17136147622224207,True Negative
+17,Male,Consultation,HF020,DEP094,Diabetes,Mild,0,0,0.09766921029503485,True Negative
+31,Male,Consultation,HF009,DEP168,Gastritis,Severe,0,0,0.10269354769686656,True Negative
+11,Male,Emergency,HF014,DEP088,Gastritis,Severe,0,0,0.09965073731321963,True Negative
+29,Male,Emergency,HF018,DEP102,Gastritis,Moderate,1,0,0.09524666652727579,False Negative
+85,Female,Consultation,HF009,DEP130,Hypertension,Severe,0,0,0.11450263438297262,True Negative
+32,Female,Emergency,HF011,DEP034,Hypertension,Mild,1,0,0.09676001065592688,False Negative
+90,Female,Emergency,HF004,DEP129,Upper Respiratory Infection,Moderate,0,0,0.10735315579837064,True Negative
+83,Female,Follow-up,HF016,DEP116,Diabetes,Severe,0,0,0.1458811728150737,True Negative
+39,Female,Follow-up,HF014,DEP191,Hypertension,Moderate,0,0,0.06914406598959393,True Negative
+76,Male,Emergency,HF011,DEP106,Gastritis,Mild,0,0,0.10724191259563653,True Negative
+80,Male,Consultation,HF018,DEP104,Hypertension,Severe,0,0,0.1560110858399999,True Negative
+16,Male,Follow-up,HF003,DEP065,Diabetes,Mild,0,0,0.1070042722547447,True Negative
+0,Female,Consultation,HF011,DEP017,Upper Respiratory Infection,Moderate,0,0,0.08568825922572879,True Negative
+57,Male,Consultation,HF017,DEP029,Gastritis,Mild,0,0,0.10691811168366112,True Negative
+87,Female,Follow-up,HF001,DEP106,Malaria,Moderate,0,0,0.11250127082746876,True Negative
+47,Male,Emergency,HF017,DEP039,Diabetes,Moderate,1,0,0.09546142502301723,False Negative
+19,Female,Follow-up,HF010,DEP100,Diabetes,Severe,0,0,0.12864352451664826,True Negative
+39,Male,Emergency,HF004,DEP175,Hypertension,Severe,1,0,0.11330875567361301,False Negative
+41,Male,Consultation,HF016,DEP096,Diabetes,Moderate,1,0,0.15719640671934546,False Negative
+80,Male,Emergency,HF002,DEP157,Hypertension,Mild,0,0,0.11612565817447543,True Negative
+44,Female,Emergency,HF004,DEP002,Hypertension,Moderate,0,0,0.29548837011036,True Negative
+78,Female,Consultation,HF020,DEP026,Upper Respiratory Infection,Severe,0,0,0.08153115276674495,True Negative
+45,Female,Follow-up,HF006,DEP086,Diabetes,Mild,0,0,0.07265262137451017,True Negative
+88,Male,Follow-up,HF020,DEP181,Diabetes,Severe,0,0,0.1009648968759441,True Negative
+49,Male,Consultation,HF020,DEP092,Hypertension,Mild,0,0,0.09333241492992173,True Negative
+73,Male,Consultation,HF009,DEP165,Upper Respiratory Infection,Mild,0,0,0.1607777989113979,True Negative
+70,Male,Follow-up,HF008,DEP196,Malaria,Mild,0,0,0.07816622327188368,True Negative
+12,Female,Emergency,HF014,DEP012,Malaria,Mild,0,0,0.0687625176288254,True Negative
+13,Female,Consultation,HF007,DEP055,Hypertension,Moderate,1,0,0.11707696226785831,False Negative
+64,Female,Consultation,HF012,DEP092,Diabetes,Moderate,0,0,0.08282573021725753,True Negative
+59,Male,Emergency,HF017,DEP008,Hypertension,Mild,0,0,0.4542266897548707,True Negative
+26,Male,Consultation,HF011,DEP048,Upper Respiratory Infection,Mild,0,0,0.24864901661773797,True Negative
+57,Male,Consultation,HF006,DEP151,Hypertension,Severe,0,0,0.1118468397472187,True Negative
+8,Female,Follow-up,HF001,DEP031,Hypertension,Moderate,0,0,0.10552491406691729,True Negative
+39,Female,Follow-up,HF010,DEP037,Hypertension,Severe,0,0,0.14568602530958905,True Negative
+68,Male,Consultation,HF017,DEP030,Gastritis,Mild,0,0,0.10666369396260439,True Negative
+43,Female,Consultation,HF015,DEP118,Diabetes,Mild,1,0,0.10677317022135652,False Negative
+41,Male,Follow-up,HF003,DEP161,Hypertension,Moderate,0,0,0.1114652561610178,True Negative
+46,Female,Consultation,HF013,DEP097,Upper Respiratory Infection,Mild,0,0,0.10180270406839102,True Negative
+62,Male,Follow-up,HF003,DEP032,Malaria,Moderate,0,0,0.11145345638531216,True Negative
+31,Male,Follow-up,HF001,DEP146,Upper Respiratory Infection,Moderate,0,0,0.2889032414151736,True Negative
+67,Female,Emergency,HF006,DEP138,Gastritis,Mild,0,0,0.2093292662399137,True Negative
+24,Male,Emergency,HF008,DEP049,Upper Respiratory Infection,Moderate,0,0,0.09775458694706708,True Negative
+49,Male,Consultation,HF005,DEP084,Diabetes,Severe,0,0,0.11436064741327358,True Negative
+35,Female,Follow-up,HF008,DEP131,Diabetes,Severe,0,0,0.07698290990846722,True Negative
+73,Female,Consultation,HF012,DEP093,Gastritis,Severe,1,0,0.2815483693071523,False Negative
+73,Male,Emergency,HF001,DEP006,Gastritis,Mild,0,0,0.19972520856911893,True Negative
+20,Female,Consultation,HF016,DEP140,Malaria,Mild,0,0,0.08959217872685941,True Negative
+38,Female,Emergency,HF001,DEP059,Diabetes,Moderate,0,0,0.09778879254133459,True Negative
+73,Female,Emergency,HF013,DEP009,Diabetes,Mild,0,0,0.20365445630692,True Negative
+62,Female,Consultation,HF016,DEP180,Gastritis,Moderate,0,0,0.10600238415207336,True Negative
+47,Female,Follow-up,HF017,DEP008,Upper Respiratory Infection,Severe,0,0,0.0771346087589419,True Negative
+79,Female,Emergency,HF012,DEP146,Malaria,Severe,0,0,0.15787899062070257,True Negative
+18,Male,Consultation,HF016,DEP173,Malaria,Mild,0,0,0.09301747917349225,True Negative
+5,Female,Follow-up,HF014,DEP022,Malaria,Mild,0,0,0.19416940406604755,True Negative
+27,Male,Consultation,HF001,DEP176,Gastritis,Moderate,0,0,0.09320164460766406,True Negative
+9,Female,Follow-up,HF014,DEP007,Hypertension,Moderate,0,0,0.07944546221979858,True Negative
+36,Female,Follow-up,HF006,DEP124,Malaria,Moderate,0,0,0.09473769494968506,True Negative
+81,Female,Consultation,HF017,DEP169,Diabetes,Moderate,0,0,0.0584937841328037,True Negative
+0,Male,Emergency,HF007,DEP121,Diabetes,Moderate,0,0,0.16939201765424425,True Negative
+35,Female,Follow-up,HF012,DEP028,Gastritis,Moderate,0,0,0.05279168710255564,True Negative
+55,Male,Consultation,HF004,DEP054,Hypertension,Moderate,0,0,0.11815744318416464,True Negative
+15,Female,Consultation,HF014,DEP011,Upper Respiratory Infection,Severe,0,0,0.10327404051026393,True Negative
+48,Female,Emergency,HF005,DEP004,Upper Respiratory Infection,Severe,0,0,0.2336738589507155,True Negative
+63,Male,Consultation,HF013,DEP152,Upper Respiratory Infection,Mild,0,0,0.10902351582250788,True Negative
+85,Male,Consultation,HF016,DEP119,Hypertension,Severe,0,0,0.10061354291226257,True Negative
+67,Female,Consultation,HF016,DEP136,Gastritis,Severe,0,0,0.07324709345150172,True Negative
+52,Male,Emergency,HF020,DEP106,Gastritis,Moderate,0,0,0.09364306657308781,True Negative
+5,Male,Emergency,HF014,DEP002,Hypertension,Mild,0,0,0.29143169158322485,True Negative
+58,Male,Consultation,HF019,DEP050,Malaria,Mild,0,0,0.11430913729057002,True Negative
+2,Female,Emergency,HF016,DEP062,Diabetes,Severe,0,0,0.09530931938907568,True Negative
+56,Male,Emergency,HF006,DEP057,Upper Respiratory Infection,Mild,0,0,0.14313167466377857,True Negative
+80,Female,Consultation,HF015,DEP174,Diabetes,Mild,0,0,0.08724080547419782,True Negative
+11,Male,Emergency,HF008,DEP084,Diabetes,Mild,0,0,0.10800662175550496,True Negative
+51,Female,Emergency,HF016,DEP140,Malaria,Severe,1,0,0.10797252583066637,False Negative
+1,Female,Follow-up,HF014,DEP128,Diabetes,Moderate,0,0,0.0946100175698036,True Negative
+88,Female,Consultation,HF017,DEP135,Malaria,Severe,0,0,0.06928212897979409,True Negative
+4,Male,Emergency,HF012,DEP198,Malaria,Moderate,0,0,0.08686379383413244,True Negative
+5,Male,Consultation,HF001,DEP154,Upper Respiratory Infection,Mild,1,0,0.10203267481508849,False Negative
+57,Female,Follow-up,HF014,DEP156,Upper Respiratory Infection,Mild,0,0,0.09664525304976868,True Negative
+73,Female,Consultation,HF018,DEP156,Hypertension,Mild,0,0,0.1142324773208146,True Negative
+13,Female,Consultation,HF010,DEP034,Gastritis,Severe,0,0,0.14850274529694238,True Negative
+6,Male,Consultation,HF009,DEP095,Gastritis,Mild,0,0,0.1065792776772329,True Negative
+43,Female,Consultation,HF012,DEP053,Diabetes,Severe,0,0,0.0839043938238636,True Negative
+58,Female,Emergency,HF007,DEP168,Hypertension,Moderate,0,0,0.1177811582814837,True Negative
+84,Male,Consultation,HF006,DEP057,Upper Respiratory Infection,Mild,0,0,0.11894638041290506,True Negative
+53,Female,Consultation,HF016,DEP056,Diabetes,Moderate,0,0,0.26126856369784063,True Negative
+84,Male,Consultation,HF015,DEP036,Upper Respiratory Infection,Severe,0,0,0.1250286257423154,True Negative
+33,Female,Consultation,HF003,DEP197,Diabetes,Mild,0,0,0.09794726051721372,True Negative
+18,Male,Follow-up,HF019,DEP187,Gastritis,Moderate,0,0,0.10682477189215867,True Negative
+48,Male,Emergency,HF010,DEP107,Hypertension,Moderate,0,0,0.14535685441237836,True Negative
+18,Male,Consultation,HF003,DEP120,Gastritis,Severe,0,0,0.23353787930756134,True Negative
+0,Female,Emergency,HF010,DEP008,Upper Respiratory Infection,Mild,0,0,0.12449599582770199,True Negative
+54,Male,Consultation,HF012,DEP022,Gastritis,Mild,0,0,0.08850426538639278,True Negative
+52,Male,Follow-up,HF010,DEP151,Diabetes,Severe,0,0,0.1461824388960711,True Negative
+88,Female,Consultation,HF002,DEP005,Upper Respiratory Infection,Moderate,0,0,0.07547918131629927,True Negative
+32,Male,Emergency,HF004,DEP058,Upper Respiratory Infection,Mild,1,0,0.10993007888095077,False Negative
+73,Female,Emergency,HF001,DEP151,Gastritis,Moderate,0,0,0.11325167893144202,True Negative
+12,Male,Consultation,HF003,DEP086,Upper Respiratory Infection,Mild,0,0,0.07985151532943091,True Negative
+58,Male,Follow-up,HF007,DEP051,Gastritis,Severe,0,0,0.18669166913974714,True Negative
+81,Female,Consultation,HF002,DEP112,Gastritis,Moderate,0,0,0.06935058596041414,True Negative
+28,Male,Emergency,HF001,DEP100,Malaria,Severe,0,0,0.09988621162172924,True Negative
+40,Female,Consultation,HF001,DEP079,Upper Respiratory Infection,Mild,1,0,0.1119742505883314,False Negative
+46,Male,Follow-up,HF011,DEP041,Upper Respiratory Infection,Moderate,1,0,0.06136538681391209,False Negative
+52,Male,Follow-up,HF020,DEP052,Upper Respiratory Infection,Moderate,0,0,0.10027402978446158,True Negative
+66,Female,Emergency,HF009,DEP059,Hypertension,Moderate,0,0,0.180273317154067,True Negative
+71,Female,Consultation,HF018,DEP086,Malaria,Mild,1,0,0.07157075036669326,False Negative
+52,Female,Emergency,HF013,DEP177,Gastritis,Mild,0,0,0.10579882653620949,True Negative
+79,Male,Consultation,HF014,DEP084,Gastritis,Severe,0,0,0.11936311359287172,True Negative
+81,Male,Consultation,HF018,DEP080,Malaria,Moderate,0,0,0.10799380837388425,True Negative
+72,Female,Emergency,HF003,DEP105,Diabetes,Mild,1,0,0.09945183231628231,False Negative
+89,Male,Consultation,HF002,DEP132,Hypertension,Mild,0,0,0.13244271423303453,True Negative
+56,Male,Follow-up,HF013,DEP153,Malaria,Severe,0,0,0.11774480691684179,True Negative
+19,Female,Follow-up,HF013,DEP199,Malaria,Mild,0,0,0.06503491918401541,True Negative
+2,Female,Follow-up,HF008,DEP153,Upper Respiratory Infection,Severe,0,0,0.09930342470409934,True Negative
+71,Male,Emergency,HF004,DEP040,Upper Respiratory Infection,Mild,0,0,0.12298698632709375,True Negative
+26,Male,Emergency,HF008,DEP019,Diabetes,Moderate,1,0,0.11000132282146598,False Negative
+73,Female,Follow-up,HF016,DEP070,Hypertension,Mild,0,0,0.10412834503932983,True Negative
+66,Female,Consultation,HF010,DEP018,Malaria,Mild,1,0,0.1447066209876522,False Negative
+79,Female,Follow-up,HF012,DEP076,Upper Respiratory Infection,Mild,0,0,0.09053652819436485,True Negative
+78,Male,Follow-up,HF010,DEP008,Malaria,Mild,0,0,0.14719924074563953,True Negative
+3,Female,Consultation,HF017,DEP085,Upper Respiratory Infection,Moderate,0,0,0.09062373890427355,True Negative
+1,Female,Consultation,HF001,DEP129,Gastritis,Severe,0,0,0.1083608523829196,True Negative
+61,Female,Emergency,HF015,DEP117,Diabetes,Moderate,0,0,0.11353458451785699,True Negative
+44,Female,Emergency,HF014,DEP006,Malaria,Mild,0,0,0.09465793876937906,True Negative
+26,Female,Follow-up,HF010,DEP126,Diabetes,Moderate,0,0,0.14190890196242806,True Negative
+52,Male,Follow-up,HF016,DEP009,Diabetes,Severe,0,0,0.10854677186884763,True Negative
+71,Male,Emergency,HF020,DEP091,Diabetes,Mild,1,0,0.0935762645841376,False Negative
+15,Male,Follow-up,HF003,DEP181,Gastritis,Moderate,0,0,0.1157637884293948,True Negative
+44,Male,Consultation,HF014,DEP083,Hypertension,Mild,0,0,0.08811678353741217,True Negative
+46,Male,Consultation,HF014,DEP095,Diabetes,Moderate,0,0,0.09066759942383515,True Negative
+78,Male,Consultation,HF014,DEP160,Diabetes,Moderate,0,0,0.0825960100497219,True Negative
+54,Male,Consultation,HF009,DEP172,Malaria,Mild,0,0,0.0968697907362431,True Negative
+33,Female,Follow-up,HF010,DEP044,Diabetes,Severe,0,0,0.10384395134277924,True Negative
+40,Female,Follow-up,HF008,DEP149,Malaria,Moderate,0,0,0.09813196687220233,True Negative
+46,Female,Emergency,HF002,DEP131,Diabetes,Mild,0,0,0.07167072189953928,True Negative
+78,Male,Consultation,HF019,DEP162,Hypertension,Mild,0,0,0.11399654489578832,True Negative
+43,Male,Emergency,HF001,DEP173,Upper Respiratory Infection,Mild,0,0,0.09517997584454105,True Negative
+35,Male,Consultation,HF013,DEP169,Diabetes,Mild,0,0,0.0666724670154338,True Negative
+12,Male,Follow-up,HF003,DEP015,Malaria,Mild,0,0,0.08638557321282757,True Negative
+14,Female,Follow-up,HF002,DEP091,Upper Respiratory Infection,Moderate,0,0,0.10993922341033457,True Negative
+68,Female,Consultation,HF004,DEP071,Malaria,Severe,0,0,0.12887263317095357,True Negative
+52,Male,Consultation,HF009,DEP163,Upper Respiratory Infection,Mild,0,0,0.11812218906918942,True Negative
+65,Female,Follow-up,HF005,DEP154,Hypertension,Moderate,0,0,0.11216159266624715,True Negative
+51,Male,Follow-up,HF013,DEP010,Hypertension,Severe,1,0,0.10353382860885715,False Negative
+72,Female,Consultation,HF003,DEP151,Hypertension,Mild,0,0,0.10440648415574766,True Negative
+73,Male,Follow-up,HF020,DEP180,Diabetes,Moderate,0,0,0.08365701893159688,True Negative
+18,Female,Consultation,HF016,DEP109,Upper Respiratory Infection,Mild,0,0,0.08555109159836369,True Negative
+74,Male,Follow-up,HF010,DEP005,Diabetes,Mild,0,0,0.1921052121330156,True Negative
+26,Male,Follow-up,HF007,DEP073,Diabetes,Severe,0,0,0.12897737087219102,True Negative
+39,Female,Follow-up,HF016,DEP062,Upper Respiratory Infection,Mild,1,0,0.09695870810807583,False Negative
+42,Female,Consultation,HF018,DEP068,Gastritis,Severe,0,0,0.09485930853722856,True Negative
+8,Female,Consultation,HF016,DEP162,Hypertension,Mild,0,0,0.09448418213856478,True Negative
+27,Female,Consultation,HF002,DEP182,Upper Respiratory Infection,Severe,0,0,0.07103027173374449,True Negative
+66,Male,Follow-up,HF007,DEP187,Gastritis,Mild,1,0,0.13851033454344622,False Negative
+20,Male,Emergency,HF001,DEP178,Gastritis,Moderate,1,0,0.17692712582879766,False Negative
+38,Female,Follow-up,HF010,DEP064,Hypertension,Moderate,0,0,0.1244209009855434,True Negative
+14,Female,Consultation,HF002,DEP074,Diabetes,Mild,0,0,0.09821460679221689,True Negative
+30,Female,Follow-up,HF018,DEP130,Upper Respiratory Infection,Mild,1,0,0.09695870810807583,False Negative
+51,Female,Consultation,HF005,DEP181,Malaria,Severe,0,0,0.09253929591226656,True Negative
+37,Female,Emergency,HF002,DEP103,Hypertension,Severe,0,0,0.10578273241650737,True Negative
+80,Male,Emergency,HF006,DEP068,Gastritis,Mild,0,0,0.1130581146562445,True Negative
+89,Female,Consultation,HF007,DEP099,Upper Respiratory Infection,Severe,0,0,0.181890686890388,True Negative
+63,Female,Follow-up,HF019,DEP035,Hypertension,Mild,0,0,0.08279471850988158,True Negative
+11,Male,Follow-up,HF014,DEP152,Diabetes,Moderate,0,0,0.10071461048152609,True Negative
+72,Female,Emergency,HF006,DEP088,Diabetes,Moderate,0,0,0.10742293123654582,True Negative
+48,Female,Consultation,HF015,DEP057,Hypertension,Moderate,0,0,0.08531463223042374,True Negative
+54,Male,Follow-up,HF001,DEP170,Diabetes,Mild,0,0,0.1135464277264187,True Negative
+37,Male,Follow-up,HF019,DEP067,Diabetes,Severe,0,0,0.08756236785486687,True Negative
+39,Female,Follow-up,HF013,DEP187,Diabetes,Mild,0,0,0.08496690538490481,True Negative
+75,Female,Emergency,HF006,DEP088,Upper Respiratory Infection,Severe,1,0,0.11265167070351298,False Negative
+72,Female,Consultation,HF017,DEP085,Malaria,Severe,0,0,0.09027638868386088,True Negative
+59,Female,Consultation,HF020,DEP104,Diabetes,Severe,0,0,0.09270241882151188,True Negative
+20,Female,Emergency,HF015,DEP078,Gastritis,Moderate,0,0,0.08992709581851915,True Negative
+53,Female,Emergency,HF017,DEP055,Hypertension,Mild,0,0,0.09226736976697605,True Negative
+26,Male,Follow-up,HF020,DEP091,Gastritis,Severe,0,0,0.10480604157372227,True Negative
+81,Female,Consultation,HF016,DEP034,Gastritis,Severe,0,0,0.18527533420921585,True Negative
+66,Female,Follow-up,HF017,DEP029,Malaria,Mild,0,0,0.08264871940804677,True Negative
+57,Female,Follow-up,HF019,DEP164,Upper Respiratory Infection,Mild,0,0,0.10933130156164818,True Negative
+30,Male,Emergency,HF015,DEP047,Malaria,Moderate,0,0,0.08130957407957025,True Negative
+73,Male,Emergency,HF013,DEP107,Gastritis,Mild,1,0,0.10946982940120004,False Negative
+51,Female,Follow-up,HF006,DEP065,Hypertension,Moderate,0,0,0.11431656873381195,True Negative
+72,Female,Consultation,HF009,DEP049,Upper Respiratory Infection,Mild,0,0,0.09966168838222303,True Negative
+45,Male,Consultation,HF009,DEP007,Malaria,Moderate,0,0,0.10713518945609947,True Negative
+83,Male,Follow-up,HF019,DEP187,Gastritis,Moderate,0,0,0.11148210705348853,True Negative
+82,Female,Emergency,HF010,DEP034,Diabetes,Severe,0,0,0.12328172268787303,True Negative
+24,Male,Emergency,HF001,DEP005,Hypertension,Mild,0,0,0.4977336734295793,True Negative
+42,Male,Follow-up,HF007,DEP105,Hypertension,Severe,0,0,0.11888565094799607,True Negative
+37,Female,Consultation,HF003,DEP187,Upper Respiratory Infection,Severe,0,0,0.08098047211215696,True Negative
+18,Male,Follow-up,HF002,DEP081,Upper Respiratory Infection,Moderate,1,0,0.11772203386127349,False Negative
+43,Male,Follow-up,HF005,DEP092,Malaria,Severe,0,0,0.0899732034351107,True Negative
+32,Male,Consultation,HF001,DEP091,Malaria,Severe,0,0,0.10713518945609947,True Negative
+87,Female,Consultation,HF007,DEP044,Malaria,Mild,0,0,0.2577453791473712,True Negative
+33,Male,Emergency,HF012,DEP012,Diabetes,Mild,0,0,0.06611816743432786,True Negative
+19,Female,Emergency,HF002,DEP191,Upper Respiratory Infection,Severe,0,0,0.062227663545709876,True Negative
+90,Female,Consultation,HF009,DEP069,Upper Respiratory Infection,Moderate,0,0,0.11959429463453805,True Negative
+72,Female,Follow-up,HF020,DEP131,Hypertension,Mild,0,0,0.17888438973406107,True Negative
+1,Male,Emergency,HF018,DEP064,Diabetes,Moderate,0,0,0.07820664352732189,True Negative
+42,Female,Emergency,HF014,DEP179,Gastritis,Moderate,0,0,0.1120519445742278,True Negative
+1,Male,Emergency,HF002,DEP068,Gastritis,Moderate,0,0,0.11189578942243553,True Negative
+90,Female,Consultation,HF013,DEP071,Gastritis,Severe,1,0,0.10124915861615864,False Negative
+57,Female,Consultation,HF009,DEP107,Gastritis,Mild,0,0,0.10383680794808908,True Negative
+40,Female,Follow-up,HF004,DEP135,Hypertension,Mild,0,0,0.07185193176275725,True Negative
+31,Male,Emergency,HF006,DEP174,Gastritis,Mild,1,0,0.08085613652871432,False Negative
+5,Female,Follow-up,HF010,DEP057,Gastritis,Severe,0,0,0.11792245281345579,True Negative
+44,Male,Consultation,HF014,DEP184,Hypertension,Severe,0,0,0.11350359961232229,True Negative
+2,Male,Consultation,HF019,DEP056,Diabetes,Mild,0,0,0.09768299480676132,True Negative
+47,Female,Consultation,HF017,DEP152,Malaria,Mild,0,0,0.08841145656819113,True Negative
+57,Male,Follow-up,HF017,DEP068,Malaria,Moderate,0,0,0.08942435614971568,True Negative
+10,Female,Emergency,HF007,DEP060,Upper Respiratory Infection,Severe,0,0,0.0602917865025852,True Negative
+77,Male,Follow-up,HF007,DEP042,Diabetes,Severe,0,0,0.1301973958141054,True Negative
+63,Female,Follow-up,HF020,DEP189,Diabetes,Severe,0,0,0.11655345235914735,True Negative
+26,Female,Emergency,HF003,DEP166,Diabetes,Severe,0,0,0.12533304604717257,True Negative
+59,Male,Emergency,HF016,DEP143,Malaria,Moderate,0,0,0.10703062807580362,True Negative
+53,Female,Consultation,HF008,DEP153,Upper Respiratory Infection,Moderate,1,0,0.11682672688783137,False Negative
+37,Female,Emergency,HF018,DEP110,Hypertension,Mild,0,0,0.10005805241159035,True Negative
+43,Female,Consultation,HF013,DEP179,Malaria,Moderate,0,0,0.08469194984314614,True Negative
+24,Female,Follow-up,HF019,DEP016,Hypertension,Severe,0,0,0.10747930472690237,True Negative
+67,Female,Follow-up,HF020,DEP106,Diabetes,Moderate,0,0,0.09402801115750685,True Negative
+0,Male,Consultation,HF014,DEP095,Gastritis,Moderate,0,0,0.11235424057819815,True Negative
+12,Male,Follow-up,HF013,DEP168,Upper Respiratory Infection,Severe,0,0,0.10642333302561172,True Negative
+89,Male,Emergency,HF012,DEP103,Gastritis,Severe,0,0,0.16874254856264248,True Negative
+6,Female,Emergency,HF014,DEP188,Gastritis,Mild,0,0,0.10023286015271694,True Negative
+20,Male,Emergency,HF005,DEP143,Upper Respiratory Infection,Severe,0,0,0.10400706069075931,True Negative
+17,Male,Emergency,HF010,DEP076,Diabetes,Moderate,0,0,0.14254830114458222,True Negative
+75,Male,Follow-up,HF008,DEP032,Hypertension,Mild,0,0,0.10573363471249951,True Negative
+15,Male,Follow-up,HF006,DEP107,Diabetes,Mild,0,0,0.11228773375785225,True Negative
+46,Male,Consultation,HF015,DEP111,Gastritis,Severe,0,0,0.11817000829525295,True Negative
+68,Male,Consultation,HF013,DEP002,Diabetes,Mild,0,0,0.11563955085680833,True Negative
+58,Male,Consultation,HF017,DEP071,Gastritis,Severe,0,0,0.09362399426404466,True Negative
+32,Female,Consultation,HF020,DEP066,Malaria,Mild,0,0,0.08567988927669999,True Negative
+52,Male,Consultation,HF005,DEP164,Hypertension,Mild,0,0,0.11604903224910187,True Negative
+3,Female,Consultation,HF009,DEP178,Upper Respiratory Infection,Severe,0,0,0.15958476928789272,True Negative
+16,Female,Emergency,HF012,DEP183,Diabetes,Moderate,0,0,0.08079825025415195,True Negative
+48,Female,Emergency,HF002,DEP097,Upper Respiratory Infection,Moderate,0,0,0.10769483155391997,True Negative
+2,Female,Emergency,HF001,DEP161,Malaria,Mild,0,0,0.0878304739938628,True Negative
+40,Female,Emergency,HF020,DEP157,Upper Respiratory Infection,Mild,0,0,0.09932008721207207,True Negative
+88,Male,Emergency,HF013,DEP116,Hypertension,Severe,0,0,0.15817262376679297,True Negative
+60,Female,Follow-up,HF016,DEP159,Diabetes,Moderate,0,0,0.3333878110807882,True Negative
+26,Female,Emergency,HF007,DEP200,Upper Respiratory Infection,Severe,0,0,0.09630237874057618,True Negative
+2,Female,Follow-up,HF016,DEP124,Gastritis,Severe,0,0,0.10134625605877914,True Negative
+52,Male,Emergency,HF011,DEP020,Gastritis,Severe,0,0,0.10724191259563653,True Negative
+49,Female,Emergency,HF001,DEP051,Upper Respiratory Infection,Moderate,0,0,0.1463809907891331,True Negative
+74,Male,Emergency,HF005,DEP002,Malaria,Severe,1,0,0.10003166355576375,False Negative
+18,Female,Consultation,HF015,DEP159,Gastritis,Moderate,0,0,0.1496292905788131,True Negative
+65,Male,Follow-up,HF020,DEP128,Upper Respiratory Infection,Mild,0,0,0.10600961104240787,True Negative
+40,Female,Consultation,HF001,DEP156,Gastritis,Severe,0,0,0.10849866292036735,True Negative
+5,Male,Follow-up,HF007,DEP147,Malaria,Mild,0,0,0.12305549752967847,True Negative
+16,Male,Consultation,HF015,DEP114,Upper Respiratory Infection,Severe,1,0,0.08850329949452584,False Negative
+6,Female,Consultation,HF016,DEP131,Gastritis,Severe,0,0,0.10474243899138498,True Negative
+62,Male,Consultation,HF001,DEP117,Malaria,Mild,0,0,0.10638308801136165,True Negative
+74,Female,Consultation,HF003,DEP176,Malaria,Moderate,0,0,0.10953569629313688,True Negative
+21,Female,Consultation,HF014,DEP115,Gastritis,Mild,0,0,0.10682805744629599,True Negative
+80,Male,Consultation,HF019,DEP183,Diabetes,Severe,0,0,0.10986329105085918,True Negative
+39,Male,Follow-up,HF010,DEP120,Upper Respiratory Infection,Severe,0,0,0.18892516413484922,True Negative
+66,Female,Emergency,HF018,DEP115,Upper Respiratory Infection,Mild,1,0,0.09146546869556045,False Negative
+72,Female,Emergency,HF007,DEP036,Malaria,Mild,0,0,0.10908257181653216,True Negative
+85,Female,Consultation,HF003,DEP001,Malaria,Severe,0,0,0.0909205179758346,True Negative
+85,Male,Follow-up,HF011,DEP022,Upper Respiratory Infection,Moderate,0,0,0.2634978108914828,True Negative
+62,Male,Consultation,HF018,DEP160,Gastritis,Mild,0,0,0.09280337102117356,True Negative
+13,Male,Follow-up,HF014,DEP132,Gastritis,Moderate,0,0,0.10218740537044173,True Negative
+7,Male,Follow-up,HF014,DEP076,Gastritis,Moderate,0,0,0.11031316531678187,True Negative
+44,Male,Consultation,HF006,DEP062,Hypertension,Mild,0,0,0.16237994195285013,True Negative
+55,Male,Follow-up,HF001,DEP036,Diabetes,Severe,0,0,0.11088834597191967,True Negative
+60,Male,Follow-up,HF010,DEP197,Gastritis,Severe,0,0,0.1550577950803016,True Negative
+8,Male,Emergency,HF016,DEP104,Upper Respiratory Infection,Moderate,0,0,0.09159077382688256,True Negative
+22,Male,Consultation,HF005,DEP101,Diabetes,Moderate,0,0,0.08779138759402827,True Negative
+24,Male,Consultation,HF017,DEP093,Gastritis,Mild,0,0,0.12242988420409917,True Negative
+28,Male,Consultation,HF006,DEP063,Upper Respiratory Infection,Severe,1,0,0.15605825726049363,False Negative
+5,Male,Consultation,HF007,DEP079,Hypertension,Moderate,0,0,0.14063851908802946,True Negative
+67,Female,Emergency,HF001,DEP084,Gastritis,Severe,0,0,0.10792837547688805,True Negative
+50,Female,Emergency,HF017,DEP070,Upper Respiratory Infection,Moderate,0,0,0.09223903236950554,True Negative
+26,Female,Consultation,HF015,DEP105,Malaria,Moderate,0,0,0.10913366521909645,True Negative
+78,Male,Follow-up,HF003,DEP070,Hypertension,Mild,0,0,0.12008050368738095,True Negative
+27,Female,Follow-up,HF009,DEP142,Gastritis,Mild,0,0,0.10323218705259891,True Negative
+69,Male,Consultation,HF020,DEP041,Malaria,Mild,1,0,0.056354376021274084,False Negative
+71,Female,Consultation,HF015,DEP066,Hypertension,Severe,0,0,0.09978750341238103,True Negative
+2,Male,Consultation,HF006,DEP009,Gastritis,Moderate,0,0,0.09707789765369108,True Negative
+75,Male,Emergency,HF006,DEP178,Hypertension,Moderate,0,0,0.3336537585566976,True Negative
+50,Female,Emergency,HF012,DEP096,Malaria,Mild,0,0,0.13176068827119952,True Negative
+48,Male,Consultation,HF013,DEP135,Diabetes,Mild,0,0,0.06676162494427543,True Negative
+76,Female,Emergency,HF014,DEP050,Gastritis,Moderate,0,0,0.09886929765669214,True Negative
+35,Male,Consultation,HF002,DEP186,Hypertension,Moderate,0,0,0.11352492802278095,True Negative
+82,Male,Emergency,HF012,DEP164,Upper Respiratory Infection,Severe,0,0,0.17006769844229253,True Negative
+50,Male,Consultation,HF007,DEP166,Gastritis,Mild,0,0,0.14801054310104036,True Negative
+17,Male,Follow-up,HF006,DEP015,Hypertension,Mild,0,0,0.11511049440099748,True Negative
+8,Female,Consultation,HF008,DEP028,Upper Respiratory Infection,Moderate,0,0,0.07430330387218433,True Negative
+43,Male,Follow-up,HF002,DEP094,Hypertension,Moderate,0,0,0.11538245746336505,True Negative
+81,Female,Follow-up,HF003,DEP128,Hypertension,Moderate,0,0,0.09130852393585825,True Negative
+37,Female,Emergency,HF006,DEP123,Gastritis,Severe,0,0,0.097858277096185,True Negative
+76,Male,Emergency,HF004,DEP089,Upper Respiratory Infection,Moderate,1,0,0.10286076476802829,False Negative
+79,Female,Follow-up,HF016,DEP010,Upper Respiratory Infection,Severe,0,0,0.10907184282641763,True Negative
+85,Male,Consultation,HF014,DEP128,Upper Respiratory Infection,Severe,0,0,0.10527653585440148,True Negative
+31,Male,Emergency,HF009,DEP158,Hypertension,Moderate,0,0,0.11330875567361301,True Negative
+87,Female,Consultation,HF007,DEP189,Malaria,Moderate,0,0,0.22016135322091307,True Negative
+81,Female,Consultation,HF018,DEP193,Malaria,Mild,0,0,0.10481753746258668,True Negative
+7,Female,Follow-up,HF012,DEP144,Upper Respiratory Infection,Mild,1,0,0.09236268856778289,False Negative
+53,Male,Follow-up,HF003,DEP044,Hypertension,Mild,1,0,0.10210619814473872,False Negative
+25,Male,Consultation,HF003,DEP192,Upper Respiratory Infection,Moderate,0,0,0.1104022920633543,True Negative
+64,Female,Consultation,HF011,DEP112,Hypertension,Moderate,0,0,0.07659583233206577,True Negative
+6,Male,Follow-up,HF001,DEP065,Gastritis,Severe,0,0,0.11394695515141208,True Negative
+33,Female,Follow-up,HF009,DEP186,Diabetes,Moderate,0,0,0.09984984101592512,True Negative
+45,Female,Emergency,HF015,DEP081,Diabetes,Mild,0,0,0.10358987897811073,True Negative
+51,Male,Follow-up,HF002,DEP088,Gastritis,Severe,1,0,0.19131161513024642,False Negative
+15,Female,Consultation,HF011,DEP190,Diabetes,Moderate,0,0,0.09595937771793227,True Negative
+74,Female,Consultation,HF011,DEP086,Hypertension,Mild,0,0,0.07172124306121488,True Negative
+57,Female,Consultation,HF006,DEP038,Malaria,Severe,0,0,0.0909205179758346,True Negative
+19,Male,Emergency,HF016,DEP058,Malaria,Mild,0,0,0.10059371617992963,True Negative
+84,Female,Emergency,HF018,DEP135,Malaria,Mild,0,0,0.06848167023546224,True Negative
+58,Male,Consultation,HF008,DEP015,Diabetes,Severe,1,0,0.20344995355360643,False Negative
+51,Male,Emergency,HF005,DEP185,Upper Respiratory Infection,Severe,0,0,0.08309383698994423,True Negative
+75,Female,Consultation,HF013,DEP117,Hypertension,Severe,0,0,0.11034944737842997,True Negative
+39,Male,Follow-up,HF012,DEP023,Gastritis,Moderate,0,0,0.07784805324085028,True Negative
+64,Female,Consultation,HF011,DEP019,Malaria,Moderate,0,0,0.10436650205983798,True Negative
+51,Female,Follow-up,HF013,DEP135,Upper Respiratory Infection,Severe,0,0,0.07295972662942096,True Negative
+16,Male,Follow-up,HF018,DEP039,Malaria,Severe,0,0,0.09593070052723932,True Negative
+13,Male,Emergency,HF013,DEP023,Gastritis,Moderate,0,0,0.1309365263575501,True Negative
+47,Male,Follow-up,HF007,DEP142,Malaria,Moderate,0,0,0.13807299467624592,True Negative
+51,Male,Follow-up,HF004,DEP057,Hypertension,Mild,0,0,0.19880531532206752,True Negative
+61,Female,Consultation,HF002,DEP159,Diabetes,Severe,0,0,0.1332218888155595,True Negative
+78,Female,Consultation,HF009,DEP005,Gastritis,Moderate,0,0,0.10454399127020621,True Negative
+2,Female,Emergency,HF012,DEP140,Upper Respiratory Infection,Moderate,0,0,0.12617426118640798,True Negative
+32,Female,Emergency,HF007,DEP188,Diabetes,Severe,1,0,0.09720759950176208,False Negative
+23,Male,Consultation,HF005,DEP117,Gastritis,Moderate,0,0,0.11817000829525295,True Negative
+13,Male,Follow-up,HF006,DEP134,Upper Respiratory Infection,Mild,0,0,0.10618374392512012,True Negative
+16,Male,Follow-up,HF011,DEP039,Hypertension,Mild,0,0,0.10920170857562975,True Negative
+52,Female,Emergency,HF009,DEP197,Gastritis,Mild,0,0,0.22005490153876253,True Negative
+2,Female,Follow-up,HF007,DEP083,Gastritis,Severe,0,0,0.110367304080172,True Negative
+58,Female,Consultation,HF004,DEP184,Gastritis,Moderate,0,0,0.10779663148527426,True Negative
+0,Male,Consultation,HF005,DEP191,Hypertension,Mild,1,0,0.07707978626275867,False Negative
+26,Male,Emergency,HF004,DEP130,Malaria,Severe,0,0,0.1083872670466143,True Negative
+26,Male,Emergency,HF009,DEP108,Hypertension,Mild,0,0,0.17228060921550395,True Negative
+13,Female,Emergency,HF019,DEP093,Gastritis,Mild,0,0,0.10105012757289973,True Negative
+59,Male,Consultation,HF002,DEP169,Gastritis,Moderate,0,0,0.07736642908672292,True Negative
+41,Male,Consultation,HF006,DEP095,Upper Respiratory Infection,Mild,0,0,0.11656507121897558,True Negative
+38,Male,Emergency,HF001,DEP053,Upper Respiratory Infection,Severe,0,0,0.11561177951170597,True Negative
+29,Female,Consultation,HF020,DEP005,Upper Respiratory Infection,Moderate,0,0,0.15998292878854226,True Negative
+76,Female,Follow-up,HF001,DEP024,Upper Respiratory Infection,Severe,0,0,0.11663738206726407,True Negative
+85,Female,Consultation,HF010,DEP024,Diabetes,Mild,0,0,0.11688367397355326,True Negative
+79,Male,Emergency,HF017,DEP192,Diabetes,Moderate,0,0,0.09967863098528627,True Negative
+53,Male,Emergency,HF005,DEP084,Diabetes,Moderate,0,0,0.10965322867190114,True Negative
+5,Female,Follow-up,HF016,DEP164,Diabetes,Moderate,0,0,0.09462817466732339,True Negative
+17,Male,Consultation,HF010,DEP087,Malaria,Moderate,0,0,0.1520893237734043,True Negative
+53,Female,Emergency,HF011,DEP028,Upper Respiratory Infection,Moderate,0,0,0.07021534133308409,True Negative
+48,Female,Emergency,HF015,DEP143,Gastritis,Severe,0,0,0.11834388186377427,True Negative
+43,Male,Follow-up,HF020,DEP015,Hypertension,Mild,0,0,0.1006263338328981,True Negative
+36,Female,Emergency,HF013,DEP121,Upper Respiratory Infection,Mild,0,0,0.09994548888834749,True Negative
+32,Female,Emergency,HF018,DEP103,Diabetes,Severe,0,0,0.09267603237712227,True Negative
+54,Female,Emergency,HF002,DEP039,Diabetes,Moderate,0,0,0.09881804715537137,True Negative
+84,Female,Consultation,HF013,DEP167,Upper Respiratory Infection,Mild,0,0,0.11682672688783137,True Negative
+52,Male,Consultation,HF004,DEP085,Hypertension,Moderate,0,0,0.22717557221765614,True Negative
+60,Female,Emergency,HF003,DEP066,Hypertension,Moderate,0,0,0.09983399127496843,True Negative
+53,Female,Consultation,HF010,DEP011,Gastritis,Mild,1,0,0.14063053074329593,False Negative
+81,Female,Follow-up,HF003,DEP074,Gastritis,Moderate,0,0,0.09642546228202349,True Negative
+67,Male,Follow-up,HF010,DEP082,Upper Respiratory Infection,Mild,0,0,0.15287757343355055,True Negative
+13,Female,Emergency,HF012,DEP030,Gastritis,Moderate,0,0,0.0820461104666121,True Negative
+65,Male,Emergency,HF001,DEP076,Gastritis,Mild,0,0,0.1130581146562445,True Negative
+85,Male,Emergency,HF007,DEP004,Hypertension,Moderate,0,0,0.17741293703350294,True Negative
+68,Male,Emergency,HF016,DEP016,Upper Respiratory Infection,Moderate,0,0,0.10286076476802829,True Negative
+37,Male,Emergency,HF019,DEP051,Upper Respiratory Infection,Severe,0,0,0.150716006396589,True Negative
+5,Female,Consultation,HF011,DEP044,Hypertension,Mild,0,0,0.08509860722741507,True Negative
+40,Female,Follow-up,HF006,DEP114,Diabetes,Mild,0,0,0.0816252248568657,True Negative
+16,Male,Follow-up,HF006,DEP024,Diabetes,Moderate,0,0,0.11228773375785225,True Negative
+80,Male,Emergency,HF002,DEP039,Malaria,Moderate,1,0,0.09865641047113498,False Negative
+41,Female,Emergency,HF016,DEP026,Diabetes,Severe,0,0,0.11332106273118285,True Negative
+42,Male,Consultation,HF003,DEP089,Hypertension,Moderate,0,0,0.11750493966730072,True Negative
+71,Female,Follow-up,HF019,DEP075,Gastritis,Mild,0,0,0.09432593583719079,True Negative
+52,Female,Follow-up,HF014,DEP059,Upper Respiratory Infection,Severe,0,0,0.10393416966209658,True Negative
+74,Female,Consultation,HF003,DEP105,Malaria,Mild,0,0,0.10852965464781952,True Negative
+10,Male,Emergency,HF009,DEP072,Hypertension,Severe,0,0,0.23789100832785143,True Negative
+78,Female,Emergency,HF017,DEP080,Malaria,Severe,0,0,0.08896060720237572,True Negative
+16,Female,Consultation,HF012,DEP131,Hypertension,Moderate,0,0,0.07037159446718756,True Negative
+48,Female,Consultation,HF005,DEP087,Malaria,Severe,0,0,0.0992654499628321,True Negative
+83,Male,Emergency,HF006,DEP121,Malaria,Moderate,0,0,0.11021282491267093,True Negative
+30,Female,Emergency,HF007,DEP153,Diabetes,Mild,1,0,0.10083790219228785,False Negative
+25,Male,Follow-up,HF005,DEP138,Malaria,Moderate,0,0,0.24285880028675433,True Negative
+12,Female,Emergency,HF013,DEP027,Upper Respiratory Infection,Moderate,1,0,0.10598945563855736,False Negative
+15,Female,Consultation,HF010,DEP192,Malaria,Severe,0,0,0.12099804397591586,True Negative
+50,Male,Follow-up,HF009,DEP189,Malaria,Moderate,0,0,0.14602318655190127,True Negative
+19,Male,Follow-up,HF010,DEP078,Gastritis,Moderate,0,0,0.10984905022342956,True Negative
+36,Male,Emergency,HF012,DEP193,Hypertension,Mild,0,0,0.09703592303546403,True Negative
+64,Male,Emergency,HF013,DEP137,Malaria,Severe,0,0,0.058770098217883204,True Negative
+90,Female,Follow-up,HF014,DEP032,Hypertension,Moderate,0,0,0.09462650125134459,True Negative
+50,Female,Follow-up,HF018,DEP194,Hypertension,Severe,0,0,0.10638597953004189,True Negative
+10,Male,Emergency,HF019,DEP171,Hypertension,Mild,0,0,0.1262981845917754,True Negative
+50,Female,Follow-up,HF014,DEP061,Malaria,Severe,1,0,0.10643874092237114,False Negative
+75,Male,Follow-up,HF014,DEP076,Gastritis,Mild,0,0,0.11693582087574772,True Negative
+25,Male,Consultation,HF009,DEP040,Upper Respiratory Infection,Moderate,0,0,0.169823579440294,True Negative
+48,Female,Emergency,HF008,DEP028,Hypertension,Mild,0,0,0.0776891816373782,True Negative
+90,Female,Emergency,HF019,DEP060,Diabetes,Moderate,0,0,0.07091350272217212,True Negative
+55,Female,Consultation,HF009,DEP070,Hypertension,Severe,0,0,0.11450263438297262,True Negative
+58,Female,Consultation,HF017,DEP157,Hypertension,Severe,0,0,0.10088767764380745,True Negative
+12,Female,Follow-up,HF019,DEP178,Gastritis,Mild,0,0,0.24640721426128886,True Negative
+36,Male,Follow-up,HF008,DEP013,Diabetes,Severe,0,0,0.3829678955555909,True Negative
+59,Female,Follow-up,HF014,DEP038,Malaria,Moderate,0,0,0.09256160502587686,True Negative
+14,Male,Follow-up,HF012,DEP189,Diabetes,Moderate,0,0,0.10060470138567063,True Negative
+4,Female,Emergency,HF015,DEP089,Diabetes,Moderate,0,0,0.11603888596682348,True Negative
+13,Male,Emergency,HF016,DEP111,Gastritis,Mild,0,0,0.10488663649654226,True Negative
+66,Female,Emergency,HF013,DEP040,Malaria,Mild,1,0,0.09932851677741629,False Negative
+9,Female,Consultation,HF008,DEP149,Gastritis,Mild,0,0,0.0844179438203555,True Negative
+53,Male,Follow-up,HF008,DEP073,Diabetes,Mild,0,0,0.1078619687061519,True Negative
+63,Male,Emergency,HF002,DEP034,Upper Respiratory Infection,Severe,0,0,0.11983440666115298,True Negative
+30,Male,Follow-up,HF017,DEP130,Upper Respiratory Infection,Moderate,1,0,0.0971804347791725,False Negative
+39,Female,Follow-up,HF005,DEP028,Upper Respiratory Infection,Mild,0,0,0.08245069985017471,True Negative
+28,Male,Emergency,HF011,DEP061,Upper Respiratory Infection,Severe,0,0,0.10822975609052354,True Negative
+88,Female,Emergency,HF010,DEP056,Hypertension,Moderate,0,0,0.12048423800354516,True Negative
+74,Male,Follow-up,HF010,DEP116,Diabetes,Mild,0,0,0.19430835400865948,True Negative
+21,Male,Emergency,HF002,DEP007,Hypertension,Mild,1,0,0.16846046054868918,False Negative
+4,Male,Consultation,HF004,DEP033,Diabetes,Moderate,0,0,0.09724280321296858,True Negative
+63,Female,Consultation,HF005,DEP145,Diabetes,Moderate,0,0,0.1114285363239786,True Negative
+73,Female,Emergency,HF004,DEP114,Upper Respiratory Infection,Mild,0,0,0.08789275470781716,True Negative
+29,Female,Consultation,HF006,DEP053,Hypertension,Severe,1,0,0.08490246468986534,False Negative
+65,Female,Consultation,HF020,DEP190,Gastritis,Severe,1,0,0.08701655427921764,False Negative
+82,Female,Emergency,HF019,DEP042,Gastritis,Moderate,0,0,0.22335411724721696,True Negative
+56,Male,Emergency,HF009,DEP139,Gastritis,Severe,0,0,0.10422945422032748,True Negative
+14,Female,Follow-up,HF009,DEP180,Upper Respiratory Infection,Severe,0,0,0.10450335715031364,True Negative
+64,Female,Consultation,HF007,DEP087,Hypertension,Mild,1,0,0.12183450148059029,False Negative
+27,Male,Consultation,HF009,DEP094,Hypertension,Moderate,0,0,0.1198385348718026,True Negative
+57,Male,Emergency,HF017,DEP004,Upper Respiratory Infection,Mild,0,0,0.22361867435127622,True Negative
+51,Male,Consultation,HF004,DEP052,Diabetes,Mild,0,0,0.1120643978907284,True Negative
+50,Male,Emergency,HF010,DEP062,Hypertension,Mild,0,0,0.15919378783851007,True Negative
+60,Female,Consultation,HF014,DEP107,Malaria,Mild,0,0,0.1025659835217168,True Negative
+60,Female,Follow-up,HF001,DEP194,Upper Respiratory Infection,Moderate,0,0,0.10907184282641763,True Negative
+16,Female,Consultation,HF004,DEP085,Diabetes,Mild,0,0,0.0961910123728337,True Negative
+85,Female,Consultation,HF010,DEP049,Gastritis,Severe,0,0,0.1348369604508545,True Negative
+48,Male,Consultation,HF001,DEP080,Gastritis,Severe,0,0,0.12242788335867652,True Negative
+33,Female,Emergency,HF014,DEP004,Malaria,Severe,0,0,0.09696939644878118,True Negative
+70,Male,Emergency,HF009,DEP191,Upper Respiratory Infection,Moderate,0,0,0.08065990962495913,True Negative
+72,Male,Consultation,HF004,DEP148,Diabetes,Mild,0,0,0.11373140083125731,True Negative
+33,Female,Consultation,HF013,DEP027,Upper Respiratory Infection,Mild,1,0,0.09745412366649953,False Negative
+71,Female,Consultation,HF001,DEP160,Hypertension,Mild,0,0,0.08453634936828532,True Negative
+5,Male,Follow-up,HF014,DEP001,Hypertension,Mild,0,0,0.10968681534202643,True Negative
+3,Female,Consultation,HF010,DEP199,Malaria,Severe,0,0,0.18572609180044566,True Negative
+70,Female,Consultation,HF019,DEP078,Upper Respiratory Infection,Moderate,0,0,0.08137314654082144,True Negative
+83,Male,Consultation,HF010,DEP178,Malaria,Moderate,0,0,0.21736067662713934,True Negative
+6,Female,Emergency,HF005,DEP068,Gastritis,Mild,0,0,0.08234299901616708,True Negative
+71,Female,Consultation,HF007,DEP016,Gastritis,Moderate,0,0,0.09927788537700566,True Negative
+0,Male,Follow-up,HF019,DEP148,Diabetes,Moderate,0,0,0.09912926363291717,True Negative
+67,Female,Emergency,HF008,DEP152,Hypertension,Moderate,0,0,0.1065605953361831,True Negative
+79,Female,Consultation,HF013,DEP042,Gastritis,Moderate,0,0,0.10543359107095022,True Negative
+1,Female,Follow-up,HF010,DEP133,Upper Respiratory Infection,Moderate,0,0,0.11424775922451876,True Negative
+84,Male,Consultation,HF001,DEP145,Hypertension,Mild,0,0,0.3657402219269501,True Negative
+51,Male,Emergency,HF012,DEP091,Malaria,Severe,0,0,0.09930301638184824,True Negative
+27,Male,Follow-up,HF018,DEP074,Gastritis,Mild,0,0,0.1160370925808513,True Negative
+42,Female,Emergency,HF002,DEP079,Hypertension,Severe,0,0,0.10215380385208232,True Negative
+39,Female,Follow-up,HF008,DEP034,Hypertension,Moderate,0,0,0.11206051207842846,True Negative
+3,Female,Emergency,HF006,DEP051,Diabetes,Severe,0,0,0.12598713470356152,True Negative
+52,Male,Emergency,HF008,DEP077,Malaria,Moderate,0,0,0.07810978768946951,True Negative
+67,Female,Follow-up,HF009,DEP184,Malaria,Mild,0,0,0.1024537867540506,True Negative
+26,Male,Emergency,HF003,DEP011,Hypertension,Mild,0,0,0.09402266299898886,True Negative
+13,Male,Emergency,HF008,DEP087,Hypertension,Moderate,1,0,0.10330559335983908,False Negative
+66,Male,Emergency,HF009,DEP067,Gastritis,Severe,0,0,0.10946982940120004,True Negative
+33,Female,Follow-up,HF013,DEP097,Upper Respiratory Infection,Mild,0,0,0.1011556201408981,True Negative
+12,Female,Emergency,HF020,DEP082,Hypertension,Severe,0,0,0.37923796792429837,True Negative
+7,Male,Emergency,HF015,DEP039,Diabetes,Moderate,0,0,0.10973726130381777,True Negative
+43,Male,Follow-up,HF016,DEP159,Hypertension,Mild,0,0,0.3380713097465059,True Negative
+8,Female,Follow-up,HF016,DEP156,Diabetes,Severe,0,0,0.08006324076769875,True Negative
+48,Female,Follow-up,HF006,DEP037,Upper Respiratory Infection,Severe,0,0,0.10287726945947408,True Negative
+54,Female,Follow-up,HF002,DEP125,Diabetes,Moderate,0,0,0.10398978912032822,True Negative
+75,Female,Consultation,HF014,DEP009,Malaria,Moderate,0,0,0.10602574895626483,True Negative
+55,Female,Emergency,HF005,DEP083,Malaria,Mild,0,0,0.07983945274846399,True Negative
+15,Male,Emergency,HF008,DEP009,Malaria,Severe,1,0,0.12797783826252815,False Negative
+30,Male,Consultation,HF011,DEP040,Hypertension,Severe,0,0,0.11096139752895708,True Negative
+45,Female,Emergency,HF015,DEP119,Diabetes,Severe,0,0,0.10658605174453523,True Negative
+69,Male,Emergency,HF019,DEP184,Hypertension,Mild,0,0,0.11189824733867126,True Negative
+60,Female,Consultation,HF014,DEP047,Hypertension,Mild,0,0,0.0872442788502549,True Negative
+75,Male,Emergency,HF015,DEP123,Diabetes,Moderate,0,0,0.12229688620958122,True Negative
+13,Male,Consultation,HF007,DEP013,Hypertension,Mild,0,0,0.35377830495826634,True Negative
+77,Female,Consultation,HF011,DEP160,Hypertension,Mild,0,0,0.07985878348165754,True Negative
+38,Female,Follow-up,HF006,DEP163,Hypertension,Severe,0,0,0.10167325006898974,True Negative
+78,Female,Emergency,HF016,DEP025,Upper Respiratory Infection,Mild,0,0,0.10709782700713136,True Negative
+19,Male,Consultation,HF008,DEP199,Gastritis,Moderate,0,0,0.14087351009549115,True Negative
+52,Female,Consultation,HF006,DEP186,Gastritis,Moderate,0,0,0.10600238415207336,True Negative
+59,Male,Follow-up,HF012,DEP119,Diabetes,Moderate,0,0,0.09560579386552213,True Negative
+48,Male,Consultation,HF012,DEP179,Hypertension,Severe,0,0,0.1241558684399688,True Negative
+5,Female,Consultation,HF017,DEP134,Gastritis,Moderate,0,0,0.08616982269235277,True Negative
+8,Female,Follow-up,HF015,DEP003,Gastritis,Moderate,0,0,0.10134625605877914,True Negative
+33,Female,Emergency,HF019,DEP173,Gastritis,Severe,1,0,0.1216484481805002,False Negative
+31,Female,Follow-up,HF015,DEP056,Upper Respiratory Infection,Mild,0,0,0.10014213260364943,True Negative
+38,Male,Emergency,HF009,DEP142,Hypertension,Mild,0,0,0.10495226522582592,True Negative
+55,Male,Follow-up,HF011,DEP038,Gastritis,Mild,0,0,0.12104163623826976,True Negative
+20,Female,Consultation,HF016,DEP149,Gastritis,Severe,0,0,0.10130472097876758,True Negative
+88,Male,Emergency,HF004,DEP067,Upper Respiratory Infection,Mild,0,0,0.09096579644190811,True Negative
+48,Male,Consultation,HF009,DEP050,Upper Respiratory Infection,Moderate,0,0,0.11960058644834042,True Negative
+27,Male,Emergency,HF017,DEP128,Hypertension,Severe,1,0,0.08956167003828522,False Negative
+39,Male,Consultation,HF011,DEP102,Hypertension,Mild,0,0,0.16876182610022836,True Negative
+36,Female,Emergency,HF012,DEP068,Hypertension,Severe,0,0,0.08550471049683839,True Negative
+81,Female,Follow-up,HF013,DEP080,Gastritis,Mild,1,0,0.11306748633669808,False Negative
+61,Female,Consultation,HF012,DEP177,Upper Respiratory Infection,Moderate,1,0,0.10034623324222425,False Negative
+29,Male,Follow-up,HF015,DEP138,Hypertension,Moderate,0,0,0.14655998095542408,True Negative
+50,Male,Consultation,HF002,DEP102,Hypertension,Mild,0,0,0.11815744318416464,True Negative
+41,Male,Consultation,HF002,DEP029,Diabetes,Moderate,0,0,0.08610911482615824,True Negative
+27,Female,Follow-up,HF015,DEP003,Diabetes,Severe,0,0,0.09617041150554755,True Negative
+86,Female,Emergency,HF007,DEP174,Hypertension,Severe,0,0,0.23673848779801915,True Negative
+51,Male,Consultation,HF006,DEP049,Hypertension,Moderate,0,0,0.109458094827003,True Negative
+56,Male,Follow-up,HF010,DEP126,Diabetes,Mild,0,0,0.14300042226453963,True Negative
+18,Male,Follow-up,HF002,DEP056,Gastritis,Moderate,0,0,0.21671543982997882,True Negative
+90,Male,Emergency,HF015,DEP127,Upper Respiratory Infection,Moderate,0,0,0.1314428842811025,True Negative
+76,Female,Emergency,HF011,DEP170,Diabetes,Severe,0,0,0.09881804715537137,True Negative
+47,Male,Follow-up,HF010,DEP131,Hypertension,Severe,0,0,0.15747781515297044,True Negative
+45,Female,Follow-up,HF020,DEP070,Gastritis,Moderate,0,0,0.09333542415069455,True Negative
+5,Female,Consultation,HF001,DEP138,Hypertension,Severe,0,0,0.21340512472711956,True Negative
+39,Male,Consultation,HF017,DEP092,Malaria,Severe,0,0,0.0948326504145473,True Negative
+15,Female,Emergency,HF001,DEP004,Hypertension,Mild,0,0,0.10553069714958362,True Negative
+69,Male,Emergency,HF011,DEP108,Upper Respiratory Infection,Severe,0,0,0.12782907065011068,True Negative
+77,Female,Emergency,HF017,DEP197,Diabetes,Severe,0,0,0.08077651133838938,True Negative
+55,Male,Follow-up,HF006,DEP175,Gastritis,Mild,0,0,0.11512782496389641,True Negative
+37,Male,Emergency,HF006,DEP170,Diabetes,Mild,1,0,0.08635681561415506,False Negative
+18,Female,Follow-up,HF004,DEP046,Hypertension,Severe,0,0,0.10747930472690237,True Negative
+56,Female,Follow-up,HF009,DEP187,Diabetes,Mild,0,0,0.10325708766692734,True Negative
+49,Male,Emergency,HF004,DEP128,Diabetes,Moderate,0,0,0.11026271895074276,True Negative
+87,Male,Consultation,HF013,DEP192,Malaria,Mild,0,0,0.107899263166406,True Negative
+55,Female,Consultation,HF003,DEP193,Diabetes,Mild,0,0,0.10229446009910216,True Negative
+34,Female,Emergency,HF020,DEP097,Hypertension,Severe,1,0,0.09566753666101338,False Negative
+79,Male,Follow-up,HF006,DEP183,Malaria,Moderate,0,0,0.1060224851484995,True Negative
+73,Female,Emergency,HF020,DEP155,Diabetes,Mild,0,0,0.09113366560600719,True Negative
+69,Male,Emergency,HF019,DEP170,Malaria,Severe,0,0,0.14882138086054036,True Negative
+71,Female,Emergency,HF011,DEP155,Hypertension,Mild,0,0,0.09684879524742344,True Negative
+57,Female,Consultation,HF014,DEP038,Malaria,Severe,0,0,0.10329434585666333,True Negative
+24,Male,Follow-up,HF017,DEP025,Gastritis,Mild,0,0,0.10054826317786061,True Negative
+63,Female,Follow-up,HF017,DEP161,Upper Respiratory Infection,Mild,0,0,0.08752604151749392,True Negative
+86,Male,Follow-up,HF002,DEP137,Malaria,Moderate,1,1,0.6722540300996213,True Positive
+26,Male,Follow-up,HF001,DEP153,Diabetes,Moderate,0,0,0.10399771165121151,True Negative
+16,Female,Consultation,HF009,DEP157,Malaria,Mild,0,0,0.09333982909760574,True Negative
+54,Male,Emergency,HF019,DEP105,Gastritis,Moderate,0,0,0.11887989356651577,True Negative
+36,Male,Follow-up,HF016,DEP041,Gastritis,Mild,0,0,0.06136538681391209,True Negative
+0,Male,Emergency,HF014,DEP065,Malaria,Moderate,1,0,0.09487347440430731,False Negative
+21,Female,Consultation,HF001,DEP096,Upper Respiratory Infection,Severe,0,0,0.07838978073345987,True Negative
+6,Female,Consultation,HF003,DEP051,Malaria,Mild,0,0,0.1453840650371202,True Negative
+79,Female,Consultation,HF016,DEP158,Upper Respiratory Infection,Severe,0,0,0.11135648368327737,True Negative
+6,Female,Emergency,HF019,DEP034,Gastritis,Severe,0,0,0.1055379799546194,True Negative
+14,Female,Consultation,HF010,DEP054,Diabetes,Severe,0,0,0.1276044943819924,True Negative
+76,Male,Follow-up,HF002,DEP187,Diabetes,Mild,1,0,0.1078619687061519,False Negative
+58,Male,Emergency,HF013,DEP011,Diabetes,Severe,0,0,0.11505063426586014,True Negative
+69,Male,Consultation,HF007,DEP064,Hypertension,Severe,0,0,0.14205648716798444,True Negative
+22,Female,Follow-up,HF009,DEP101,Hypertension,Severe,0,0,0.08969654920211817,True Negative
+32,Male,Consultation,HF015,DEP021,Malaria,Moderate,0,0,0.08952832882858634,True Negative
+75,Male,Follow-up,HF005,DEP134,Hypertension,Severe,0,0,0.11629856358987999,True Negative
+43,Female,Emergency,HF012,DEP006,Gastritis,Severe,1,0,0.0757195568786815,False Negative
+60,Female,Consultation,HF015,DEP071,Malaria,Moderate,0,0,0.09314571990976099,True Negative
+58,Male,Follow-up,HF019,DEP105,Gastritis,Severe,0,0,0.12305540573738474,True Negative
+82,Male,Emergency,HF003,DEP006,Hypertension,Mild,0,0,0.11793362321106826,True Negative
+6,Female,Emergency,HF015,DEP105,Upper Respiratory Infection,Mild,0,0,0.1395771319208581,True Negative
+82,Male,Consultation,HF009,DEP120,Diabetes,Moderate,1,0,0.2049233339420221,False Negative
+13,Male,Follow-up,HF002,DEP021,Gastritis,Mild,0,0,0.0949577853387989,True Negative
+66,Male,Follow-up,HF011,DEP017,Hypertension,Severe,0,0,0.12008050368738095,True Negative
+32,Male,Follow-up,HF014,DEP016,Gastritis,Severe,0,0,0.10886922211273116,True Negative
+73,Male,Follow-up,HF011,DEP085,Diabetes,Severe,0,0,0.09146590277441628,True Negative
+85,Male,Emergency,HF013,DEP076,Malaria,Moderate,0,0,0.10409720928096493,True Negative
+69,Male,Consultation,HF008,DEP065,Gastritis,Moderate,0,0,0.11724624396866999,True Negative
+38,Female,Consultation,HF002,DEP062,Hypertension,Moderate,0,0,0.11122180082531444,True Negative
+59,Female,Consultation,HF017,DEP092,Hypertension,Mild,0,0,0.08112024667494597,True Negative
+35,Male,Consultation,HF004,DEP142,Malaria,Mild,0,0,0.09785224533284756,True Negative
+0,Female,Emergency,HF016,DEP160,Malaria,Severe,0,0,0.06850742354837704,True Negative
+80,Male,Consultation,HF005,DEP185,Hypertension,Mild,0,0,0.1540141541011148,True Negative
+67,Female,Consultation,HF009,DEP047,Upper Respiratory Infection,Mild,0,0,0.09538621861600324,True Negative
+51,Male,Follow-up,HF008,DEP089,Gastritis,Moderate,0,0,0.20612842212620844,True Negative
+5,Male,Follow-up,HF009,DEP175,Gastritis,Moderate,0,0,0.1048808845699473,True Negative
+14,Male,Emergency,HF020,DEP007,Gastritis,Severe,0,0,0.10314679030088317,True Negative
+27,Male,Consultation,HF007,DEP129,Malaria,Severe,0,0,0.11210603768309403,True Negative
+6,Male,Follow-up,HF010,DEP083,Diabetes,Mild,0,0,0.14221512705197076,True Negative
+41,Male,Consultation,HF005,DEP096,Malaria,Severe,0,0,0.10007966652909783,True Negative
+31,Male,Emergency,HF012,DEP113,Malaria,Moderate,0,0,0.06773553394696062,True Negative
+58,Female,Consultation,HF007,DEP030,Upper Respiratory Infection,Severe,0,0,0.11474400207003535,True Negative
+67,Male,Consultation,HF009,DEP040,Diabetes,Moderate,0,0,0.11930264623210755,True Negative
+19,Female,Follow-up,HF001,DEP036,Diabetes,Severe,0,0,0.12782162387616972,True Negative
+38,Male,Follow-up,HF008,DEP195,Malaria,Severe,0,0,0.14486713479408225,True Negative
+54,Female,Consultation,HF011,DEP014,Hypertension,Mild,0,0,0.09763795969586775,True Negative
+61,Male,Emergency,HF002,DEP051,Diabetes,Moderate,0,0,0.29438401387009516,True Negative
+73,Female,Emergency,HF002,DEP068,Diabetes,Mild,0,0,0.09858077641995656,True Negative
+79,Male,Consultation,HF012,DEP015,Malaria,Severe,0,0,0.08595191349693371,True Negative
+13,Female,Consultation,HF006,DEP100,Hypertension,Moderate,0,0,0.10973469658300071,True Negative
+67,Male,Follow-up,HF018,DEP105,Malaria,Mild,0,0,0.11223703898829751,True Negative
+23,Male,Follow-up,HF001,DEP023,Hypertension,Severe,0,0,0.12536961240351496,True Negative
+76,Male,Emergency,HF017,DEP071,Diabetes,Severe,0,0,0.08250624754317172,True Negative
+69,Female,Consultation,HF019,DEP148,Gastritis,Mild,1,0,0.09631447537053042,False Negative
+5,Female,Emergency,HF002,DEP111,Hypertension,Severe,0,0,0.09822375769017691,True Negative
+40,Female,Emergency,HF014,DEP019,Hypertension,Severe,0,0,0.10237921798206046,True Negative
+33,Male,Emergency,HF009,DEP161,Upper Respiratory Infection,Moderate,0,0,0.10642915948598407,True Negative
+46,Male,Consultation,HF009,DEP126,Malaria,Mild,0,0,0.12382860736399175,True Negative
+58,Male,Consultation,HF006,DEP098,Gastritis,Severe,0,0,0.1650093261182068,True Negative
+85,Male,Consultation,HF002,DEP130,Upper Respiratory Infection,Moderate,0,0,0.1236108527485959,True Negative
+80,Male,Emergency,HF014,DEP040,Upper Respiratory Infection,Severe,0,0,0.11650764785074834,True Negative
+3,Male,Emergency,HF009,DEP176,Hypertension,Moderate,1,0,0.11126157719043854,False Negative
+45,Male,Consultation,HF001,DEP089,Diabetes,Mild,0,0,0.09743079983188951,True Negative
+80,Male,Follow-up,HF003,DEP195,Gastritis,Moderate,0,0,0.12104163623826976,True Negative
+46,Male,Follow-up,HF002,DEP081,Gastritis,Moderate,0,0,0.10657054977459703,True Negative
+39,Male,Consultation,HF017,DEP138,Hypertension,Mild,0,0,0.09284925300960493,True Negative
+25,Female,Follow-up,HF010,DEP062,Diabetes,Severe,0,0,0.12864352451664826,True Negative
+69,Male,Emergency,HF012,DEP002,Malaria,Mild,1,0,0.08626639660461137,False Negative
+90,Male,Follow-up,HF008,DEP135,Gastritis,Mild,0,0,0.14356192484305033,True Negative
+72,Female,Consultation,HF015,DEP026,Malaria,Mild,0,0,0.2788188319748029,True Negative
+62,Female,Consultation,HF005,DEP079,Hypertension,Severe,0,0,0.10412834503932983,True Negative
+16,Male,Consultation,HF013,DEP032,Upper Respiratory Infection,Mild,0,0,0.10815770275110627,True Negative
+33,Male,Follow-up,HF011,DEP150,Gastritis,Moderate,0,0,0.10682477189215867,True Negative
+76,Male,Emergency,HF008,DEP029,Malaria,Moderate,0,0,0.15887695031404472,True Negative
+47,Male,Consultation,HF014,DEP154,Gastritis,Moderate,1,0,0.10316653571190572,False Negative
+90,Female,Follow-up,HF020,DEP127,Hypertension,Mild,0,0,0.10746485148445951,True Negative
+42,Female,Emergency,HF003,DEP125,Hypertension,Moderate,0,0,0.10757370919316477,True Negative
+17,Female,Emergency,HF015,DEP127,Hypertension,Severe,0,0,0.10665733856183585,True Negative
+19,Male,Follow-up,HF003,DEP153,Upper Respiratory Infection,Severe,0,0,0.08687641973720944,True Negative
+81,Female,Consultation,HF019,DEP148,Upper Respiratory Infection,Moderate,0,0,0.1996235356242976,True Negative
+87,Female,Follow-up,HF011,DEP072,Malaria,Mild,0,0,0.10450196829923007,True Negative
+1,Female,Consultation,HF016,DEP159,Malaria,Mild,0,0,0.498919981456016,True Negative
+81,Female,Emergency,HF006,DEP183,Diabetes,Mild,0,0,0.10716745641511159,True Negative
+40,Female,Follow-up,HF004,DEP089,Gastritis,Mild,0,0,0.10250421291658995,True Negative
+57,Male,Follow-up,HF004,DEP155,Gastritis,Severe,0,0,0.11512782496389641,True Negative
+10,Male,Emergency,HF013,DEP028,Upper Respiratory Infection,Severe,0,0,0.07671155150880536,True Negative
+18,Female,Emergency,HF017,DEP117,Hypertension,Moderate,0,0,0.08649343303249045,True Negative
+5,Male,Emergency,HF017,DEP136,Diabetes,Moderate,0,0,0.06038053448741153,True Negative
+18,Female,Consultation,HF009,DEP022,Malaria,Severe,0,0,0.21175120565503114,True Negative
+75,Male,Emergency,HF019,DEP073,Diabetes,Moderate,1,0,0.10965322867190114,False Negative
+46,Male,Consultation,HF017,DEP185,Upper Respiratory Infection,Mild,1,0,0.07057877861579431,False Negative
+51,Female,Consultation,HF004,DEP145,Gastritis,Severe,0,0,0.25938241212647223,True Negative
+35,Male,Emergency,HF006,DEP199,Hypertension,Mild,0,0,0.08934229329905521,True Negative
+48,Male,Follow-up,HF003,DEP194,Upper Respiratory Infection,Moderate,0,0,0.11221519569996376,True Negative
+75,Male,Follow-up,HF012,DEP079,Hypertension,Mild,0,0,0.10319463915655057,True Negative
+31,Female,Emergency,HF011,DEP161,Hypertension,Mild,0,0,0.10215380385208232,True Negative
+55,Male,Follow-up,HF012,DEP178,Upper Respiratory Infection,Moderate,0,0,0.09479663191613882,True Negative
+10,Male,Follow-up,HF016,DEP103,Malaria,Mild,0,0,0.096432412172069,True Negative
+67,Female,Follow-up,HF011,DEP200,Diabetes,Moderate,0,0,0.10914259876151783,True Negative
+1,Male,Follow-up,HF001,DEP167,Diabetes,Mild,0,0,0.11453662707471803,True Negative
+34,Female,Consultation,HF006,DEP136,Upper Respiratory Infection,Mild,0,0,0.07868803001665847,True Negative
+83,Female,Consultation,HF008,DEP188,Hypertension,Severe,0,0,0.18697023499337853,True Negative
+77,Male,Emergency,HF002,DEP064,Upper Respiratory Infection,Mild,1,0,0.11497654254211244,False Negative
+36,Male,Follow-up,HF001,DEP152,Malaria,Mild,0,0,0.09246353800564566,True Negative
+55,Male,Emergency,HF016,DEP061,Hypertension,Mild,0,0,0.11189824733867126,True Negative
+20,Male,Consultation,HF011,DEP078,Hypertension,Moderate,0,0,0.086648609090076,True Negative
+87,Female,Consultation,HF014,DEP016,Malaria,Severe,0,0,0.1030259222410233,True Negative
+40,Male,Emergency,HF019,DEP024,Upper Respiratory Infection,Moderate,0,0,0.10602407236210537,True Negative
+11,Female,Consultation,HF016,DEP171,Upper Respiratory Infection,Mild,0,0,0.11861067964577239,True Negative
+27,Female,Consultation,HF008,DEP140,Gastritis,Mild,1,0,0.11036128608396982,False Negative
+65,Male,Consultation,HF009,DEP187,Upper Respiratory Infection,Moderate,0,0,0.1250286257423154,True Negative
+83,Male,Follow-up,HF012,DEP169,Hypertension,Mild,1,0,0.06750575443092732,False Negative
+22,Male,Emergency,HF014,DEP199,Malaria,Mild,0,0,0.08037332328213244,True Negative
+26,Female,Consultation,HF012,DEP138,Diabetes,Severe,0,0,0.16945594710319511,True Negative
+71,Male,Follow-up,HF018,DEP119,Gastritis,Severe,1,0,0.09130980287934892,False Negative
+28,Male,Follow-up,HF011,DEP123,Hypertension,Moderate,0,0,0.11731464165584382,True Negative
+25,Female,Emergency,HF017,DEP057,Diabetes,Severe,0,0,0.0887858192966208,True Negative
+90,Female,Emergency,HF001,DEP088,Upper Respiratory Infection,Severe,0,0,0.10735315579837064,True Negative
+5,Male,Emergency,HF013,DEP192,Upper Respiratory Infection,Severe,0,0,0.11543350575787067,True Negative
+42,Male,Consultation,HF009,DEP174,Upper Respiratory Infection,Severe,0,0,0.09436571153360084,True Negative
+77,Male,Consultation,HF019,DEP038,Upper Respiratory Infection,Moderate,1,0,0.11894638041290506,False Negative
+45,Female,Emergency,HF011,DEP176,Hypertension,Mild,0,0,0.10553069714958362,True Negative
+55,Male,Consultation,HF008,DEP021,Gastritis,Severe,0,0,0.08134377914748099,True Negative
+17,Female,Emergency,HF010,DEP181,Upper Respiratory Infection,Moderate,0,0,0.13237954663342114,True Negative
+17,Male,Follow-up,HF005,DEP130,Diabetes,Mild,0,0,0.1030913982689233,True Negative
+4,Male,Follow-up,HF001,DEP029,Gastritis,Severe,1,0,0.11394695515141208,False Negative
+88,Female,Consultation,HF018,DEP017,Gastritis,Mild,0,0,0.10676713156325049,True Negative
+49,Male,Follow-up,HF018,DEP190,Diabetes,Severe,0,0,0.10294360284827832,True Negative
+73,Female,Consultation,HF007,DEP100,Gastritis,Mild,0,0,0.12484669204666923,True Negative
+41,Male,Follow-up,HF009,DEP050,Diabetes,Moderate,0,0,0.10122096869111491,True Negative
+66,Male,Emergency,HF017,DEP143,Upper Respiratory Infection,Severe,0,0,0.23196044923017137,True Negative
+55,Male,Follow-up,HF001,DEP089,Malaria,Mild,0,0,0.12227545038640239,True Negative
+18,Male,Consultation,HF014,DEP151,Diabetes,Mild,1,0,0.10549704602509452,False Negative
+89,Male,Follow-up,HF010,DEP011,Hypertension,Moderate,0,0,0.15895165528621472,True Negative
+52,Male,Emergency,HF019,DEP032,Diabetes,Mild,0,0,0.10349564976276449,True Negative
+65,Female,Follow-up,HF013,DEP052,Upper Respiratory Infection,Severe,0,0,0.10123465673053542,True Negative
+78,Male,Emergency,HF006,DEP037,Malaria,Severe,0,0,0.10825091818633566,True Negative
+20,Female,Follow-up,HF017,DEP001,Upper Respiratory Infection,Mild,0,0,0.07769681128911791,True Negative
+81,Female,Consultation,HF007,DEP095,Gastritis,Mild,0,0,0.11312665652035243,True Negative
+25,Male,Emergency,HF016,DEP093,Gastritis,Severe,0,0,0.40373476533000974,True Negative
+33,Female,Emergency,HF002,DEP069,Gastritis,Mild,0,0,0.10521576157886207,True Negative
+55,Female,Consultation,HF015,DEP029,Hypertension,Moderate,0,0,0.11450263438297262,True Negative
+54,Male,Follow-up,HF001,DEP113,Diabetes,Mild,0,0,0.08021377122852537,True Negative
+55,Male,Follow-up,HF017,DEP064,Upper Respiratory Infection,Severe,0,0,0.10795631543052432,True Negative
+68,Female,Consultation,HF017,DEP004,Gastritis,Severe,0,0,0.09976879762413882,True Negative
+47,Male,Consultation,HF002,DEP127,Upper Respiratory Infection,Mild,0,0,0.09366061247109668,True Negative
+65,Male,Follow-up,HF001,DEP066,Hypertension,Moderate,0,0,0.10895965099729682,True Negative
+88,Female,Follow-up,HF003,DEP019,Upper Respiratory Infection,Moderate,0,0,0.09257201296832175,True Negative
+33,Female,Follow-up,HF017,DEP081,Upper Respiratory Infection,Moderate,0,0,0.0968075583571476,True Negative
+6,Female,Follow-up,HF018,DEP155,Hypertension,Severe,0,0,0.08653642090783675,True Negative
+57,Male,Consultation,HF018,DEP136,Diabetes,Moderate,0,0,0.08284953080327966,True Negative
+53,Male,Emergency,HF004,DEP046,Gastritis,Mild,0,0,0.1130581146562445,True Negative
+17,Female,Emergency,HF019,DEP080,Malaria,Severe,0,0,0.09565001435893539,True Negative
+64,Female,Follow-up,HF005,DEP134,Gastritis,Moderate,0,0,0.10749562593914358,True Negative
+60,Male,Consultation,HF003,DEP057,Gastritis,Severe,0,0,0.09569104768288113,True Negative
+55,Female,Follow-up,HF003,DEP056,Upper Respiratory Infection,Severe,1,0,0.0998217381532089,False Negative
+88,Female,Follow-up,HF008,DEP181,Upper Respiratory Infection,Moderate,0,0,0.09987935708452146,True Negative
+69,Male,Follow-up,HF018,DEP093,Upper Respiratory Infection,Severe,1,0,0.14164786452506647,False Negative
+73,Male,Follow-up,HF015,DEP119,Gastritis,Mild,1,0,0.11432665939823757,False Negative
+83,Male,Consultation,HF013,DEP079,Upper Respiratory Infection,Severe,0,0,0.1250286257423154,True Negative
+66,Female,Follow-up,HF003,DEP022,Hypertension,Moderate,0,0,0.1895607950979492,True Negative
+7,Male,Follow-up,HF008,DEP113,Malaria,Severe,0,0,0.07932797802365411,True Negative
+79,Male,Follow-up,HF007,DEP097,Gastritis,Severe,0,0,0.13420124141444004,True Negative
+11,Male,Emergency,HF003,DEP080,Hypertension,Mild,0,0,0.09112508462940477,True Negative
+54,Male,Emergency,HF011,DEP038,Malaria,Severe,1,0,0.16734111556280182,False Negative
+64,Male,Follow-up,HF011,DEP009,Malaria,Severe,1,0,0.21330172561080665,False Negative
+54,Female,Emergency,HF016,DEP118,Upper Respiratory Infection,Severe,0,0,0.11238532652810299,True Negative
+12,Female,Emergency,HF018,DEP042,Upper Respiratory Infection,Severe,0,0,0.08559512509821522,True Negative
+75,Female,Follow-up,HF016,DEP072,Diabetes,Moderate,0,0,0.15618001008790308,True Negative
+21,Male,Consultation,HF004,DEP175,Diabetes,Moderate,0,0,0.10526557223164398,True Negative
+57,Male,Consultation,HF016,DEP031,Malaria,Severe,0,0,0.11042382635338356,True Negative
+78,Male,Emergency,HF020,DEP170,Diabetes,Mild,0,0,0.08627319197500863,True Negative
+49,Female,Follow-up,HF010,DEP037,Hypertension,Severe,0,0,0.13387140237984863,True Negative
+70,Male,Follow-up,HF001,DEP075,Gastritis,Mild,0,0,0.11539982363211979,True Negative
+73,Female,Emergency,HF007,DEP046,Diabetes,Mild,0,0,0.11436001517433592,True Negative
+52,Female,Follow-up,HF003,DEP135,Malaria,Severe,0,0,0.09593356630954188,True Negative
+35,Female,Follow-up,HF002,DEP124,Gastritis,Mild,0,0,0.0922250204381711,True Negative
+81,Male,Emergency,HF013,DEP083,Diabetes,Moderate,0,0,0.11477935184869364,True Negative
+25,Male,Follow-up,HF015,DEP112,Hypertension,Mild,0,0,0.06949599024516981,True Negative
+62,Female,Emergency,HF006,DEP006,Upper Respiratory Infection,Severe,0,0,0.09938665791274182,True Negative
+0,Male,Follow-up,HF010,DEP156,Gastritis,Moderate,0,0,0.15405594908707465,True Negative
+9,Female,Follow-up,HF015,DEP029,Hypertension,Severe,0,0,0.10214818469008663,True Negative
+58,Male,Consultation,HF016,DEP161,Upper Respiratory Infection,Severe,0,0,0.11922618516211056,True Negative
+13,Male,Follow-up,HF014,DEP013,Upper Respiratory Infection,Severe,0,0,0.09512233639009587,True Negative
+32,Female,Follow-up,HF018,DEP006,Malaria,Moderate,0,0,0.11692687855189887,True Negative
+51,Female,Follow-up,HF008,DEP042,Upper Respiratory Infection,Moderate,0,0,0.10214333483274873,True Negative
+26,Male,Consultation,HF020,DEP136,Gastritis,Severe,0,0,0.07137553068900278,True Negative
+33,Female,Follow-up,HF015,DEP047,Gastritis,Mild,0,0,0.07073011695030389,True Negative
+89,Female,Emergency,HF010,DEP185,Upper Respiratory Infection,Moderate,0,0,0.10401674917566557,True Negative
+66,Male,Consultation,HF008,DEP194,Upper Respiratory Infection,Mild,0,0,0.11922618516211056,True Negative
+37,Male,Consultation,HF003,DEP085,Hypertension,Mild,0,0,0.1071761052926321,True Negative
+65,Female,Consultation,HF003,DEP125,Hypertension,Severe,0,0,0.10836324212473705,True Negative
+31,Female,Follow-up,HF009,DEP148,Upper Respiratory Infection,Severe,0,0,0.10967849964481392,True Negative
+60,Male,Consultation,HF018,DEP094,Malaria,Moderate,0,0,0.17314754894062764,True Negative
+34,Female,Follow-up,HF010,DEP134,Malaria,Severe,0,0,0.13351295680104383,True Negative
+72,Male,Consultation,HF020,DEP176,Malaria,Moderate,0,0,0.0976902821376007,True Negative
+51,Male,Consultation,HF013,DEP038,Hypertension,Mild,0,0,0.11843564154333844,True Negative
+26,Female,Follow-up,HF006,DEP071,Hypertension,Mild,1,0,0.09741343315350129,False Negative
+58,Female,Follow-up,HF007,DEP184,Diabetes,Mild,1,0,0.11867679313075868,False Negative
+35,Male,Follow-up,HF014,DEP134,Malaria,Mild,0,0,0.09845461718095876,True Negative
+35,Male,Consultation,HF020,DEP168,Diabetes,Severe,0,0,0.09300153023756609,True Negative
+49,Male,Emergency,HF005,DEP160,Upper Respiratory Infection,Moderate,0,0,0.08058440551230545,True Negative
+45,Female,Consultation,HF017,DEP200,Malaria,Mild,1,0,0.07242989895630962,False Negative
+67,Male,Emergency,HF011,DEP193,Upper Respiratory Infection,Mild,1,0,0.24999271336419426,False Negative
+82,Male,Emergency,HF010,DEP028,Hypertension,Mild,0,0,0.11532490671872841,True Negative
+79,Male,Consultation,HF002,DEP056,Hypertension,Moderate,0,0,0.13333085657377294,True Negative
+60,Male,Emergency,HF008,DEP087,Malaria,Severe,0,0,0.13669457229985593,True Negative
+83,Male,Emergency,HF001,DEP045,Hypertension,Mild,0,0,0.43275019853321,True Negative
+36,Male,Follow-up,HF008,DEP150,Hypertension,Severe,0,0,0.10689146851607385,True Negative
+74,Male,Follow-up,HF002,DEP075,Upper Respiratory Infection,Severe,0,0,0.1227891527088117,True Negative
+26,Male,Emergency,HF010,DEP124,Malaria,Moderate,0,0,0.1422833715248248,True Negative
+75,Female,Follow-up,HF016,DEP103,Gastritis,Severe,0,0,0.09120982731573231,True Negative
+65,Female,Emergency,HF014,DEP197,Hypertension,Moderate,0,0,0.11619445452436947,True Negative
+53,Male,Follow-up,HF017,DEP035,Upper Respiratory Infection,Moderate,0,0,0.058514625016795885,True Negative
+74,Female,Consultation,HF017,DEP126,Upper Respiratory Infection,Moderate,0,0,0.10521981389817373,True Negative
+43,Female,Follow-up,HF013,DEP178,Malaria,Mild,0,0,0.15422874258315394,True Negative
+66,Female,Emergency,HF015,DEP061,Malaria,Mild,0,0,0.15688577292821654,True Negative
+2,Female,Follow-up,HF015,DEP083,Diabetes,Moderate,0,0,0.10290987611511818,True Negative
+55,Female,Emergency,HF004,DEP180,Malaria,Severe,0,0,0.08757946832561088,True Negative
+6,Male,Emergency,HF002,DEP098,Gastritis,Moderate,0,0,0.111631007561695,True Negative
+14,Male,Follow-up,HF008,DEP163,Diabetes,Mild,0,0,0.2388174536058073,True Negative
+86,Female,Consultation,HF006,DEP166,Gastritis,Mild,0,0,0.10975131817115505,True Negative
+70,Female,Emergency,HF009,DEP179,Gastritis,Severe,0,0,0.4172537693491086,True Negative
+78,Male,Follow-up,HF018,DEP009,Diabetes,Severe,0,0,0.10760557563489684,True Negative
+25,Male,Emergency,HF010,DEP187,Hypertension,Mild,0,0,0.2162543766277513,True Negative
+40,Male,Consultation,HF014,DEP125,Hypertension,Moderate,0,0,0.10948623851614404,True Negative
+17,Male,Follow-up,HF017,DEP025,Malaria,Mild,0,0,0.09098918845379571,True Negative
+83,Male,Follow-up,HF003,DEP024,Hypertension,Moderate,0,0,0.11824403822550181,True Negative
+18,Female,Follow-up,HF007,DEP195,Upper Respiratory Infection,Severe,0,0,0.11729337085275617,True Negative
+73,Female,Emergency,HF011,DEP086,Hypertension,Moderate,0,0,0.06903213361667485,True Negative
+59,Female,Consultation,HF017,DEP056,Upper Respiratory Infection,Severe,0,0,0.22402183983101898,True Negative
+26,Male,Consultation,HF005,DEP090,Diabetes,Mild,0,0,0.08432817478423807,True Negative
+79,Male,Follow-up,HF020,DEP115,Gastritis,Moderate,1,0,0.09248499173714637,False Negative
+49,Male,Follow-up,HF006,DEP181,Diabetes,Mild,0,0,0.10294360284827832,True Negative
+65,Male,Consultation,HF010,DEP092,Upper Respiratory Infection,Mild,0,0,0.15979417780283312,True Negative
+74,Male,Follow-up,HF001,DEP167,Hypertension,Severe,0,0,0.13102051259911615,True Negative
+56,Male,Consultation,HF011,DEP070,Malaria,Moderate,0,0,0.11430913729057002,True Negative
+47,Female,Follow-up,HF018,DEP002,Diabetes,Mild,0,0,0.09640250125011061,True Negative
+74,Male,Follow-up,HF001,DEP180,Hypertension,Mild,0,0,0.12036261184026789,True Negative
+74,Male,Follow-up,HF006,DEP159,Upper Respiratory Infection,Moderate,0,0,0.27817092917432007,True Negative
+70,Female,Follow-up,HF011,DEP070,Hypertension,Severe,0,0,0.10613267756953508,True Negative
+29,Female,Emergency,HF015,DEP019,Malaria,Severe,0,0,0.09320440433148666,True Negative
+60,Male,Emergency,HF018,DEP034,Upper Respiratory Infection,Severe,0,0,0.1788197349232237,True Negative
+43,Female,Emergency,HF002,DEP141,Upper Respiratory Infection,Mild,0,0,0.08113815238906504,True Negative
+41,Male,Follow-up,HF017,DEP159,Diabetes,Severe,0,0,0.0887554282765124,True Negative
+72,Male,Consultation,HF015,DEP126,Upper Respiratory Infection,Moderate,1,0,0.14100738691603873,False Negative
+77,Female,Consultation,HF003,DEP119,Hypertension,Moderate,0,0,0.1142324773208146,True Negative
+32,Male,Emergency,HF015,DEP127,Hypertension,Mild,0,0,0.12987232859053638,True Negative
+14,Female,Follow-up,HF007,DEP086,Gastritis,Mild,0,0,0.08534632829074253,True Negative
+59,Male,Follow-up,HF011,DEP174,Gastritis,Moderate,0,0,0.09436931600467613,True Negative
+9,Female,Consultation,HF009,DEP086,Diabetes,Mild,0,0,0.061445909871418194,True Negative
+4,Female,Follow-up,HF006,DEP176,Diabetes,Severe,0,0,0.0973237464458576,True Negative
+89,Female,Consultation,HF006,DEP160,Upper Respiratory Infection,Severe,0,0,0.07561368858714744,True Negative
+12,Female,Follow-up,HF010,DEP138,Diabetes,Severe,0,0,0.2593434348103604,True Negative
+87,Male,Consultation,HF011,DEP026,Hypertension,Mild,0,0,0.09755672487469116,True Negative
+26,Female,Follow-up,HF019,DEP117,Gastritis,Mild,0,0,0.09944188844833338,True Negative
+25,Male,Follow-up,HF005,DEP151,Hypertension,Mild,0,0,0.10725563119852838,True Negative
+56,Female,Follow-up,HF015,DEP141,Upper Respiratory Infection,Mild,0,0,0.10559501290226024,True Negative
+47,Female,Follow-up,HF003,DEP157,Hypertension,Mild,0,0,0.10404731080853365,True Negative
+83,Male,Emergency,HF005,DEP003,Diabetes,Severe,0,0,0.10888547243993711,True Negative
+43,Male,Follow-up,HF015,DEP095,Malaria,Severe,0,0,0.103869409573455,True Negative
+89,Female,Emergency,HF017,DEP063,Malaria,Moderate,0,0,0.1260347730708085,True Negative
+52,Male,Emergency,HF002,DEP090,Hypertension,Moderate,0,1,0.7014213894638234,False Positive
+70,Male,Emergency,HF002,DEP181,Diabetes,Severe,0,0,0.11505063426586014,True Negative
+86,Female,Consultation,HF005,DEP039,Hypertension,Moderate,0,0,0.10810580189002146,True Negative
+17,Female,Consultation,HF011,DEP152,Hypertension,Mild,0,0,0.10382097763781255,True Negative
+45,Male,Consultation,HF002,DEP161,Malaria,Severe,0,0,0.11494116578638007,True Negative
+84,Male,Consultation,HF005,DEP033,Malaria,Severe,0,0,0.16553444760156144,True Negative
+74,Male,Consultation,HF017,DEP093,Malaria,Severe,0,0,0.275800077958387,True Negative
+81,Male,Emergency,HF013,DEP100,Gastritis,Mild,0,0,0.10921008222919276,True Negative
+40,Male,Emergency,HF012,DEP080,Malaria,Moderate,0,0,0.08541388858256779,True Negative
+43,Male,Follow-up,HF003,DEP139,Malaria,Mild,0,0,0.11285907050274457,True Negative
+21,Male,Consultation,HF013,DEP165,Upper Respiratory Infection,Severe,1,0,0.09818156717332144,False Negative
+78,Female,Follow-up,HF001,DEP048,Gastritis,Severe,0,0,0.12636731329647086,True Negative
+26,Male,Consultation,HF003,DEP158,Hypertension,Severe,0,0,0.11122478996966192,True Negative
+5,Female,Follow-up,HF015,DEP141,Malaria,Severe,0,0,0.09852574053138166,True Negative
+8,Male,Consultation,HF015,DEP017,Gastritis,Severe,1,0,0.10683351812542703,False Negative
+28,Female,Consultation,HF008,DEP066,Diabetes,Mild,0,0,0.08869833349955625,True Negative
+64,Female,Emergency,HF018,DEP163,Diabetes,Mild,0,0,0.23591757926590823,True Negative
+20,Female,Follow-up,HF003,DEP080,Hypertension,Moderate,0,0,0.0893024262908937,True Negative
+17,Male,Follow-up,HF014,DEP145,Gastritis,Moderate,0,0,0.2326901297139828,True Negative
+80,Female,Consultation,HF008,DEP046,Gastritis,Severe,0,0,0.08986052071497444,True Negative
+21,Female,Emergency,HF010,DEP049,Gastritis,Severe,0,0,0.13081959652969607,True Negative
+3,Male,Consultation,HF020,DEP053,Diabetes,Severe,0,0,0.09150496630355898,True Negative
+27,Female,Follow-up,HF011,DEP029,Hypertension,Mild,0,0,0.10191712242777284,True Negative
+77,Male,Consultation,HF010,DEP098,Upper Respiratory Infection,Severe,0,0,0.32392248621713743,True Negative
+72,Female,Emergency,HF006,DEP031,Diabetes,Mild,0,0,0.10742293123654582,True Negative
+15,Female,Emergency,HF018,DEP037,Diabetes,Severe,1,0,0.10291553237486817,False Negative
+28,Female,Emergency,HF012,DEP163,Upper Respiratory Infection,Moderate,0,0,0.07485984953913788,True Negative
+14,Male,Emergency,HF011,DEP124,Gastritis,Severe,0,0,0.11368411395036343,True Negative
+76,Male,Consultation,HF006,DEP102,Malaria,Moderate,0,0,0.10799380837388425,True Negative
+5,Female,Consultation,HF011,DEP061,Diabetes,Severe,1,0,0.09641048627271008,False Negative
+3,Female,Follow-up,HF003,DEP145,Malaria,Mild,0,0,0.09852574053138166,True Negative
+26,Female,Emergency,HF011,DEP125,Diabetes,Moderate,0,0,0.09245199621095793,True Negative
+74,Male,Consultation,HF012,DEP191,Upper Respiratory Infection,Severe,0,0,0.07156722321944148,True Negative
+77,Female,Emergency,HF003,DEP183,Hypertension,Moderate,0,0,0.1122595925346468,True Negative
+19,Male,Emergency,HF011,DEP113,Gastritis,Moderate,0,0,0.08434247851088386,True Negative
+25,Female,Consultation,HF002,DEP119,Malaria,Moderate,0,0,0.0839917467434288,True Negative
+19,Male,Emergency,HF004,DEP115,Malaria,Severe,1,0,0.09089835389386562,False Negative
+57,Male,Emergency,HF015,DEP024,Hypertension,Mild,0,0,0.22793553620659449,True Negative
+87,Female,Emergency,HF011,DEP079,Upper Respiratory Infection,Mild,0,0,0.10735315579837064,True Negative
+30,Female,Emergency,HF016,DEP186,Gastritis,Mild,1,0,0.0925180775298474,False Negative
+84,Female,Emergency,HF008,DEP016,Diabetes,Moderate,0,0,0.09858077641995656,True Negative
+22,Female,Follow-up,HF016,DEP123,Malaria,Moderate,0,0,0.09690183449892177,True Negative
+57,Male,Consultation,HF007,DEP094,Gastritis,Severe,0,0,0.13661643696275372,True Negative
+83,Female,Consultation,HF012,DEP179,Hypertension,Moderate,0,0,0.38114558488207906,True Negative
+77,Female,Follow-up,HF011,DEP047,Gastritis,Severe,0,0,0.08620938777179807,True Negative
+19,Male,Emergency,HF016,DEP105,Gastritis,Severe,0,0,0.09920507082488242,True Negative
+7,Female,Follow-up,HF013,DEP159,Hypertension,Mild,0,0,0.10505893894516753,True Negative
+9,Male,Consultation,HF017,DEP065,Diabetes,Moderate,0,0,0.07653662316588508,True Negative
+27,Female,Follow-up,HF015,DEP056,Malaria,Mild,0,0,0.08887413160777564,True Negative
+90,Female,Follow-up,HF005,DEP097,Gastritis,Mild,1,0,0.11376193576466741,False Negative
+37,Female,Emergency,HF020,DEP117,Gastritis,Moderate,0,0,0.18179895831581444,True Negative
+17,Male,Follow-up,HF007,DEP152,Upper Respiratory Infection,Moderate,0,0,0.12470841615191092,True Negative
+54,Male,Follow-up,HF016,DEP138,Hypertension,Mild,1,0,0.3415053810093724,False Negative
+16,Female,Follow-up,HF012,DEP191,Upper Respiratory Infection,Mild,0,0,0.05893413757964499,True Negative
+83,Male,Emergency,HF014,DEP001,Malaria,Severe,0,0,0.10091584004751189,True Negative
+85,Female,Follow-up,HF009,DEP134,Gastritis,Mild,0,0,0.08931626348553977,True Negative
+75,Male,Follow-up,HF018,DEP005,Malaria,Mild,0,0,0.29070431298956395,True Negative
+74,Female,Follow-up,HF002,DEP126,Hypertension,Moderate,0,0,0.12231308679182105,True Negative
+52,Male,Consultation,HF019,DEP166,Diabetes,Severe,1,0,0.11902268628976347,False Negative
+3,Male,Emergency,HF016,DEP177,Hypertension,Severe,0,0,0.10928329445526558,True Negative
+77,Female,Consultation,HF015,DEP019,Gastritis,Moderate,0,0,0.10574988743812254,True Negative
+56,Male,Consultation,HF007,DEP046,Gastritis,Moderate,0,0,0.1369313479063836,True Negative
+0,Male,Consultation,HF020,DEP145,Hypertension,Moderate,0,0,0.1042158550909039,True Negative
+5,Male,Emergency,HF002,DEP069,Gastritis,Mild,0,0,0.1268811331362301,True Negative
+55,Female,Follow-up,HF014,DEP178,Upper Respiratory Infection,Mild,0,0,0.1927630080738943,True Negative
+47,Male,Emergency,HF017,DEP170,Upper Respiratory Infection,Mild,0,0,0.09208920726947703,True Negative
+54,Female,Consultation,HF020,DEP199,Upper Respiratory Infection,Moderate,0,0,0.08059915849571038,True Negative
+68,Male,Consultation,HF017,DEP187,Hypertension,Severe,0,0,0.2552733865481096,True Negative
+2,Male,Emergency,HF013,DEP018,Diabetes,Severe,0,0,0.10242028172429112,True Negative
+34,Male,Consultation,HF001,DEP066,Upper Respiratory Infection,Moderate,0,0,0.10314492942994426,True Negative
+42,Male,Emergency,HF015,DEP195,Diabetes,Mild,0,0,0.1729227447649301,True Negative
+18,Female,Follow-up,HF005,DEP173,Malaria,Moderate,0,0,0.07707322845047834,True Negative
+48,Female,Consultation,HF016,DEP167,Gastritis,Moderate,0,0,0.11036128608396982,True Negative
+50,Male,Consultation,HF005,DEP146,Gastritis,Severe,1,0,0.3312749995886626,False Negative
+34,Female,Emergency,HF014,DEP105,Gastritis,Moderate,0,0,0.08573923093152624,True Negative
+69,Female,Follow-up,HF001,DEP071,Upper Respiratory Infection,Severe,0,0,0.10786173689278492,True Negative
+88,Female,Emergency,HF017,DEP180,Hypertension,Mild,0,0,0.16923730284490437,True Negative
+89,Female,Emergency,HF003,DEP021,Diabetes,Mild,0,0,0.08501330731666161,True Negative
+90,Female,Follow-up,HF001,DEP008,Malaria,Mild,0,0,0.09957960503948232,True Negative
+45,Female,Consultation,HF003,DEP165,Diabetes,Moderate,0,0,0.08695453784965242,True Negative
+85,Male,Follow-up,HF016,DEP126,Diabetes,Mild,1,0,0.10179347776306526,False Negative
+2,Male,Emergency,HF015,DEP123,Diabetes,Severe,0,0,0.11183608032888347,True Negative
+44,Male,Consultation,HF017,DEP100,Diabetes,Mild,0,0,0.09106642060430357,True Negative
+49,Male,Emergency,HF018,DEP048,Diabetes,Mild,0,0,0.2394001638818931,True Negative
+78,Female,Follow-up,HF009,DEP052,Hypertension,Severe,0,0,0.11242747377082048,True Negative
+60,Female,Consultation,HF007,DEP154,Gastritis,Mild,0,0,0.11312665652035243,True Negative
+33,Female,Emergency,HF012,DEP200,Hypertension,Mild,0,0,0.16918394036734605,True Negative
+90,Male,Emergency,HF006,DEP045,Gastritis,Mild,0,0,0.11960522809274896,True Negative

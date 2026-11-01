@@ -1,0 +1,11 @@
+AnalystLab Africa clarification supplied by the user (Slack):
+
+User question: Week 7 refers to separate HealthConnect appointment resources, but the Week 6 Rwanda data has no attendance/no-show field. Should Week 7 continue using the Week 6 Rwanda data?
+
+AnalystLab Africa 001 reply: "You're to use the same dataset as week 6 for week 7 task"
+
+Project handling decision:
+- Continue from the exact Week 6 HealthConnect Rwanda Data Science work.
+- Do not invent an attendance/no-show outcome.
+- Test and refine the genuine Week 6 classification component (hospital admission prediction).
+- Document the absence of an attendance/no-show field as a data limitation.

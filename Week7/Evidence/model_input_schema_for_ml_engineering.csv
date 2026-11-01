@@ -1,0 +1,11 @@
+Feature,Type,Missing_Handling,Prediction_Time_Requirement
+Age,numeric,median imputation,Must be available before admission prediction
+Gender,categorical,most-frequent imputation + one-hot encoding,Must be available before admission prediction
+MaritalStatus,categorical,most-frequent imputation + one-hot encoding,Must be available before admission prediction
+Education,categorical,most-frequent imputation + one-hot encoding,Must be available before admission prediction
+BloodGroup,categorical,most-frequent imputation + one-hot encoding,Must be available before admission prediction
+BMI,numeric,median imputation,Must be available before admission prediction
+HasChronicCondition,numeric,median imputation,Must be available before admission prediction
+VisitType,categorical,most-frequent imputation + one-hot encoding,Must be available before admission prediction
+Diagnosis,categorical,most-frequent imputation + one-hot encoding,Must be available before admission prediction
+Severity,categorical,most-frequent imputation + one-hot encoding,Must be available before admission prediction

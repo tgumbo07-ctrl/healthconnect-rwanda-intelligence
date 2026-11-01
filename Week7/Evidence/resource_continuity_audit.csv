@@ -1,0 +1,4 @@
+Item,Source,Rows,Columns,Finding
+Week 6 integrated detailed sample,Data/Integrated/Integrated_Healthcare_Dataset.csv,5000.0,51.0,Available and used
+Appointment attendance/no-show target,Not present,,,Unavailable in supplied Week 6 Rwanda data
+Hospital admission target,Admitted,5000.0,1.0,Available; positive rate 0.1172

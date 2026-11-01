@@ -1,0 +1,13 @@
+Model,Metric,Mean,Std
+Logistic Regression,ROC_AUC,0.5053850309212512,0.017128637366830683
+Logistic Regression,PR_AUC,0.11968762425712079,0.008474667601135782
+Logistic Regression,Balanced_Accuracy,0.49967884432124327,0.021487037129138162
+Logistic Regression,Recall,0.4009380004575612,0.04421062996441178
+Logistic Regression,Precision,0.1169814612432029,0.011197602990106002
+Logistic Regression,F1,0.18105584798781207,0.017685832666196815
+Week 6 Candidate - Gradient Boosting,ROC_AUC,0.48106510192675717,0.020470638073691136
+Week 6 Candidate - Gradient Boosting,PR_AUC,0.11545787464791979,0.006515896833455537
+Week 6 Candidate - Gradient Boosting,Balanced_Accuracy,0.4966015682911877,0.0018683254098758287
+Week 6 Candidate - Gradient Boosting,Recall,0.0,0.0
+Week 6 Candidate - Gradient Boosting,Precision,0.0,0.0
+Week 6 Candidate - Gradient Boosting,F1,0.0,0.0
