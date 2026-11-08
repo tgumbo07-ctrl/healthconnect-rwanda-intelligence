@@ -1,0 +1,8 @@
+Requirement,Final_Value
+Prediction objective,Hospital admission status (educational/analytical candidate; not approved for deployment)
+Prediction point,Patient arrival / before initial clinical assessment
+Input schema,"AgeAtAppointment, Gender, HasChronicCondition, VisitType, FacilityID, DepartmentID, PriorVisits, AppointmentMonth, AppointmentWeekday"
+Output,Probability of admission + binary prediction only if threshold is explicitly configured
+Required preprocessing,Median imputation + standardization for numeric; most-frequent imputation + one-hot encoding for categorical
+Known limitation,ROC-AUC approximately 0.52; model must not be represented as clinically reliable
+Deployment decision,"Do not deploy; pipeline integration, if demonstrated, should be clearly labelled technical/educational only"

@@ -1,0 +1,9 @@
+Requirement,Response,Status
+Final component,Leakage-safer hospital-admission classification candidate + final model documentation,Ready for presentation/documentation
+Problem addressed,Assess whether pre-assessment appointment/patient information can discriminate hospital admission,Validated as weak predictive signal
+Current status,Final documented candidate selected; not deployment-ready,Ready
+Week 7 improvement,"Feature governance, prediction-time definition, leakage control, cross-track validation",Completed
+Depends on,Validated Data Analytics findings; future stronger pre-admission predictors; ML Engineering only if operational workflow proceeds,Partially external
+Output provided,"Model artifact, schema/feature decisions, evaluation metrics, risks and business interpretation",Ready
+Evidence,"Holdout + 5-fold CV, error analysis, cross-track records, final report",Ready
+Remaining limitations,Near-chance discrimination; no attendance/no-show target; limited verified pre-admission signal,Documented

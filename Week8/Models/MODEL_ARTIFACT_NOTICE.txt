@@ -1,0 +1,2 @@
+This serialized model is the final documented Week 8 candidate for reproducibility and portfolio evidence.
+It is NOT validated for clinical or operational deployment. Holdout ROC-AUC ~0.519; 5-fold CV ROC-AUC ~0.524.

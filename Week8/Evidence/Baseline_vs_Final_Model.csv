@@ -1,0 +1,5 @@
+Stage,Model,Feature_Set,Holdout_ROC_AUC,CV_ROC_AUC_Mean,Status
+Week 6 candidate,Gradient Boosting,Original Week 6 candidate feature set,0.4967234853984571,,Historical candidate; near chance
+Week 7 tested candidate,Gradient Boosting,Week 6 features under stricter Week 7 protocol,0.4916804599703807,0.481065,Rejected for deployment
+Week 7 threshold/refinement comparator,Refined comparator,Threshold/refinement experiment,0.5420042396259837,0.4874777305456254,Rejected as unstable
+Week 8 final documented candidate,Gradient Boosting,Leakage-safer pre-assessment feature set,0.5188750471876179,0.5236703333733873,Final documented candidate; NOT deployment-ready

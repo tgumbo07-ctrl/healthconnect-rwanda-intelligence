@@ -1,0 +1,37 @@
+Agu Precious - Data Analytics cross-track feature review (1 November 2026)
+
+Supported:
+- Gender
+- HasChronicCondition
+- VisitType
+- Age, with the caveat that it should be calculated as of the appointment date.
+
+Retain with caveats:
+- FacilityID
+- DepartmentID
+The Data Analytics validation found no statistically significant differences in facility/department ratings, but that does not establish that the IDs have no predictive value. Test separately and assess generalisation.
+
+Require further validation:
+- MaritalStatus
+- Education
+- BloodGroup
+- BMI
+
+Hold pending prediction-time clarification:
+- Diagnosis
+- Severity
+These may be recorded during or after clinical assessment and could introduce leakage depending on the prediction point.
+
+Suggested time-safe additions:
+- PriorVisits, calculated only from appointments before the current appointment
+- Appointment month
+- Appointment weekday
+
+Data limitation:
+- The Appointments sheet has no attendance/no-show field.
+
+Prediction-point question:
+- Clarify whether prediction occurs at booking, patient arrival, or after initial clinical assessment.
+
+Data Science decision:
+- For the Week 7 cross-track re-test, the prediction point is defined as patient arrival / before initial clinical assessment.

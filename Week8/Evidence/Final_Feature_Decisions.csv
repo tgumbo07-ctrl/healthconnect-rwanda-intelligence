@@ -1,0 +1,16 @@
+Feature,Decision,Rationale,Operational_Note
+AgeAtAppointment,Retain,Calculated as of appointment date,Available at patient arrival; prevents using current age divorced from appointment timing.
+Gender,Retain,Supported by Data Analytics feature review,Available before clinical assessment.
+HasChronicCondition,Retain,Supported by Data Analytics feature review,Existing patient information; used as pre-assessment predictor.
+VisitType,Retain with caveat,Supported with caveat,Available from appointment record; monitor data consistency.
+FacilityID,Retain with caveat,"Rating differences were not significant, but ID predictive value is a separate question",Tested as categorical context; do not infer facility quality from coefficient/importance.
+DepartmentID,Retain with caveat,Department rating differences not significant; ID may still provide context,Tested as categorical context; avoid quality ranking interpretation.
+PriorVisits,Add,Suggested by Data Analytics; calculated strictly from earlier appointments,Time-safe historical utilization feature.
+AppointmentMonth,Add,Suggested time/context feature,Available from appointment date.
+AppointmentWeekday,Add,Suggested time/context feature,Available from appointment date.
+Diagnosis,Exclude from pre-assessment model,Potential prediction-time leakage,May be recorded during/after clinical assessment.
+Severity,Exclude from pre-assessment model,Potential prediction-time leakage,May be recorded during/after clinical assessment.
+MaritalStatus,Exclude from final cross-track model,Not validated in analytics review,Could be revisited with data-quality evidence.
+Education,Exclude from final cross-track model,Not validated in analytics review,Could be revisited with data-quality evidence.
+BloodGroup,Exclude from final cross-track model,Not validated in analytics review,No evidence it improves the pre-assessment objective.
+BMI,Exclude from final cross-track model,Not validated in analytics review,Availability/timing not established for arrival-time prediction.
